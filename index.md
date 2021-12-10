@@ -1,5 +1,3 @@
-[Link](url) and ![Image](src)
-
 ## Quotes'N'Movies
 
 You can use the [editor on GitHub](https://github.com/albertkjoller/QuotesNMovies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
