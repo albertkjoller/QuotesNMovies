@@ -1,35 +1,41 @@
-## Quotes'N'Movies
+# Quotes'N'Movies
 
-## Title
+Motivational text: the complete legacy of a movie - painting the full picture from income, ratings and opinion in public.
+Coverage
 
-### Markdown
+## Introduction to data (maybe remove header)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Movies in the years 2015-2020
 
-```markdown
-Syntax highlighted code block
 
-# Test headline
-## Header 2
-### Header 3
+## How did we receive premiering movies?
 
-- Bulleted
-- List
+### Box Office
 
-1. Numbered
-2. List
+- 
 
-**Bold** and _Italic_ and `Code` text
+
+
+## What did we respond to the movies?
+
+### IMDb ratings
+
+Item 1 How are these in general? Main points of investigation of IMDb data
+Item 2 Is the sentiment of quotes over all time somewhat represented in the IMDb rating?
+  Item 2a Overall
+  Item 2b Voters
+  Item 2c Critics
+Item 3 hello
+  
 
 [Link](url) and ![Image](src)
+
+
+### Bias in legacy
+
+```markdown
+codebox example
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/albertkjoller/QuotesNMovies/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Conclusion
