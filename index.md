@@ -1,26 +1,30 @@
 # Quotes'N'Movies
 
-Movies are a great source of Have you ever wondered whether the old saying “bad publicity is good publicity” is in fact true? 
-
-
-Painting the complete picture
-Immediate success - box office
-
-When premiering, Legacy (evt. bias)
+Movies are a great source of enjoyment...
+Have you ever wondered whether the old saying “bad publicity is good publicity” is in fact true? 
 
 Have you ever thought about how public coverage of a movie can relate to the success of said movie?
 Let’s begin by asking ourselves; how does the public coverage of movies in media relate to the success of the movies concerned?
 
 
+Notes:
+Painting the complete picture
+Immediate success - box office
+
+When premiering, Legacy (evt. bias)
 
 
 
+```markdown
+```
 
 
 ### Setting (maybe remove title)
 
 Explain the basic setting (which years). Simple summary of movies in the years 2015-2020 
 
+```markdown
+```
 
 ## How did we receive premiering movies?
 
@@ -37,6 +41,8 @@ How they relate
 - Which one was most represented in the sense of quotations?
 
 
+```markdown
+```
 ## How did we respond to the movies?
 
 ### IMDb ratings
@@ -49,11 +55,17 @@ How they relate
    - Critics
 
 
-### Bias in legacy
+### Do we need to be aware of biases in the legacy?
+Bias in ratings
+
+
+
 
 ```markdown
 codebox example
 ```
 
+```markdown
+```
 
 ## Conclusion
