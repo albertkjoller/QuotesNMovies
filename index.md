@@ -22,30 +22,29 @@ When premiering, Legacy (evt. bias)
 ### Setting (maybe remove title)
 
 Explain the basic setting (which years). Simple summary of movies in the years 2015-2020 
-
+(MOVIE INVESTIGATIONS)
 ```markdown
 ```
 
 ## How did we receive premiering movies?
 
-Show box office for movies
-Show media coverage
-How they relate
-
-### Box Office
+### Revenue of movies (Box Office)
 
 - Which one was most incoming movie, etc.
+- (Some of RQ1)
+- (Some of RQ3 - maybe?)
 
 ### Media coverage
 
 - Which one was most represented in the sense of quotations?
-
+- (Some of RQ2)
 
 ```markdown
 ```
 ## How did we respond to the movies?
 
-### IMDb ratings
+### Rating of movies (IMDb)
+(Some of RQ2)
 
 - How are these in general? Main points of investigation of IMDb data
 
@@ -57,6 +56,7 @@ How they relate
 
 ### Do we need to be aware of biases in the legacy?
 Bias in ratings
+(RQ4)
 
 
 
