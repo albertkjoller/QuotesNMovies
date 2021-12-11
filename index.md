@@ -23,9 +23,9 @@ Movies in the years 2015-2020
 - How are these in general? Main points of investigation of IMDb data
 - Is the sentiment of quotes over all time somewhat represented in the IMDb rating?
    - Overall
-  Item 2b Voters
-  Item 2c Critics
-Item 3 hello
+   - Voters
+   - Critics
+   - 
   
 
 [Link](url) and ![Image](src)
