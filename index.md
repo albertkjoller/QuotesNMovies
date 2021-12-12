@@ -1,9 +1,4 @@
 <h1> Quotes'N'Movies </h1>
-<h3> Quotes'N'Moves </h3>
-<h4> Quotes'N'Movies </h4>
-<h5> Qteoasf asdgsa df </h5>
-<h1> asofilasfasfaksf </h1>
-
    
 Movies are a great source of enjoyment...
 Have you ever wondered whether the old saying “bad publicity is good publicity” is in fact true? 
@@ -24,31 +19,31 @@ When premiering, Legacy (evt. bias)
 ```
 
 
-### Setting (maybe remove title)
+<h3> Setting (maybe remove title) </h3>
 
 Explain the basic setting (which years). Simple summary of movies in the years 2015-2020 
 (MOVIE INVESTIGATIONS)
 ```markdown
 ```
 
-## How did we receive premiering movies? 
+<h2> How did we receive premiering movies? </h2>
 
-### Revenue of movies (Box Office)
+<h3> Revenue of movies (Box Office) </h3>
 
 - Which one was most incoming movie, etc.
 - (Some of RQ1)
 - (Some of RQ3 - maybe?)
 
-### Media coverage 
+<h3> Media coverage </h3>
 
 - Which one was most represented in the sense of quotations?
 - (Some of RQ2)
 
 ```markdown
 ```
-## How did we respond to the movies? 
+<h2> How did we respond to the movies? </h2>
 
-### Rating of movies (IMDb) 
+<h3> Rating of movies (IMDb) </h3>
 (Some of RQ2)
 
 - How are these in general? Main points of investigation of IMDb data
@@ -59,7 +54,7 @@ Explain the basic setting (which years). Simple summary of movies in the years 2
    - Critics
 
 
-### Do we need to be aware of biases in the legacy? 
+<h3> Do we need to be aware of biases in the legacy? </h3>
 Bias in ratings
 (RQ4)
 
@@ -73,4 +68,4 @@ codebox example
 ```markdown
 ```
 
-## Conclusion
+<h2> Conclusion </h2>
