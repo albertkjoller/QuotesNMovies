@@ -26,6 +26,7 @@ Explain the basic setting (which years). Simple summary of movies in the years 2
 ```markdown
 example
 ```
+{% include example.html %}
 
 <h2> How did we receive premiering movies? </h2>
 
