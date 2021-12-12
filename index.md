@@ -18,15 +18,36 @@ When premiering, Legacy (evt. bias)
 ```markdown
 ```
 
+```markdown
+plotly example 1
+```
+{% include example.html %}
+
+
+```markdown
+plotly example 2
+```
+{% include example2.html %}
+
+
+```markdown
+plotly example 3
+```
+{% include example_sent.html %}
+
+
+```markdown
+plotly example 4
+```
+{% include example_sent2.html %}
+
+
 
 <h3> Setting (maybe remove title) </h3>
 
 Explain the basic setting (which years). Simple summary of movies in the years 2015-2020 
 (MOVIE INVESTIGATIONS)
-```markdown
-example
-```
-{% include example.html %}
+
 
 <h2> How did we receive premiering movies? </h2>
 
