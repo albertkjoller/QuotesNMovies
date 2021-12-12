@@ -19,12 +19,6 @@ When premiering, Legacy (evt. bias)
 ```
 
 
-```markdown
-gif example 1
-```
-{% include data-pioneers-assemble.gif%}
-
-
 
 ```markdown
 plotly example 1
