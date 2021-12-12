@@ -30,14 +30,19 @@ Explain the basic setting (which years). Simple summary of movies in the years 2
 
 <h3> Revenue of movies (Box Office) </h3>
 
-- Which one was most incoming movie, etc.
-- (Some of RQ1)
-- (Some of RQ3 - maybe?)
+<ul>
+   <li> Which one was most incoming movie, etc. </li>
+   <li> (Some of RQ1) </li>
+   <li> (Some of RQ3 - maybe?) </li>
+</ul>
 
 <h3> Media coverage </h3>
 
-- Which one was most represented in the sense of quotations?
-- (Some of RQ2)
+<ul>
+   <li>  Which one was most represented in the sense of quotations? </li>
+   <li> (Some of RQ2) </li>
+</ul>
+
 
 ```markdown
 ```
@@ -46,12 +51,19 @@ Explain the basic setting (which years). Simple summary of movies in the years 2
 <h3> Rating of movies (IMDb) </h3>
 (Some of RQ2)
 
-- How are these in general? Main points of investigation of IMDb data
 
-- Is the sentiment of quotes over all time somewhat represented in the IMDb rating?
-   - Overall
-   - Voters
-   - Critics
+
+<ul>
+   <li> How are these in general? Main points of investigation of IMDb data </li>
+   <li> Is the sentiment of quotes over all time somewhat represented in the IMDb rating? </li>
+   <ul>
+      <li> Overall </li>
+      <li> Voters </li>
+      <li> Critics </li>
+   </ul>
+</ul>
+
+
 
 
 <h3> Do we need to be aware of biases in the legacy? </h3>
