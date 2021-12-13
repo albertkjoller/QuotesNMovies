@@ -45,10 +45,12 @@ Does the bar plot follow this hypothesis? Not really, no. This means that althou
 
 <h3> Media coverage </h3>
 
-<ul>
-   <li>  Which one was most represented in the sense of quotations? </li>
-   <li> (Some of RQ2) </li>
-</ul>
+In terms of number of quotation:
+{% include dailyNumQuotes_boxOffice.html %}
+
+
+In terms of sentiment of quotations:
+{% include dailySent_boxOffice.html %}
 
 
 ```markdown
@@ -57,6 +59,19 @@ Does the bar plot follow this hypothesis? Not really, no. This means that althou
 
 <h3> Rating of movies (IMDb) </h3>
 (Some of RQ2)
+
+| Score | Minimum | Maximum | Avg. |
+
+| --------------- | --------------- | --------------- | --------------- |
+
+| Sentiment | 5.6 | 8.5 | 7.2 |
+
+| IMDb users |  5.6 | 8.5 | 7.2 |
+
+| IMDb critics | 3.3 | 9.5 | 6.8 |
+
+| IMDb mixed | 4.5 | 8.8 | 7.0 |
+
 
 
 
@@ -79,34 +94,9 @@ Bias in ratings
 
 
 
-
-
-```markdown
-```
-
-
-
 ```markdown
 plotly example 1
 ```
-{% include example.html %}
 
-
-```markdown
-plotly example 2
-```
-{% include example2.html %}
-
-
-```markdown
-plotly example 3
-```
-{% include example_sent.html %}
-
-
-```markdown
-plotly example 4
-```
-{% include example_sent2.html %}
 
 <h2> Conclusion </h2>
