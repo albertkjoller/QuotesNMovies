@@ -60,9 +60,7 @@ In terms of sentiment of quotations:
 <h3> Rating of movies (IMDb) </h3>
 (Some of RQ2)
 
-| Score | Minimum | Maximum | Avg. |
-
-| --------------- | --------------- | --------------- | --------------- |
+| <b> Score </b> | <b> Minimum </b> | <b> Maximum </b> | <b> Avg. </b> |
 
 | Sentiment | 5.6 | 8.5 | 7.2 |
 
