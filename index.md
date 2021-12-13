@@ -4,18 +4,18 @@ Everyone loves a good movie. But how much does your decision to go to a movie th
 
 In this datastory we intend to guide you through an exciting universe of movie publicity, success and legacy of movies. We will find out how general publicity around movies "correlate/doesnt" with movie success, how public opinion on a movie "correlate/doesnt" with movie success and legacy, and finally we will try to understand where we may have biases regarding to public opinion and IMDb ratings of movies. These are the three general topics we will cover but in each section we will answer subquestions and show you the wonderful visualisations that can be created with data.
 
-It is important to be on the same page with a few things, that we will bring up a lot. We will be working with movies that were released to theaters in the time period 2015 to 2020. It will not be all movies since that would require us to use cloud computing, so we have chosen 56 American movies. We will use success defined by Box Office income for a given movie (money earned through theater-tickets) and the legacy of a movie is defined by the IMDb rating of that movie. The reason we separate these two terms is, that while Box Office will only be accumulated during the period of theatrical release, the IMDb rating can keep changing right until we downloaded the data this fall.
+It is important, before we start, to be on the same page with a few things, that we will bring up a lot. We will be working with movies that were released to theaters in the time period 2015 to 2020. It will not be all movies since that would require us to use cloud computing, so we have chosen 56 American movies. We will use success defined by Box Office income for a given movie (money earned through theater-tickets) and the legacy of a movie is defined by the IMDb rating of that movie. The reason we separate these two terms is, that while Box Office will only be accumulated during the period of theatrical release, the IMDb rating can keep changing right until we downloaded the data this fall.
 
 With that being said, let’s begin by asking ourselves; how does the public coverage of movies in media relate to the success of the movies concerned?
 
 
 
 
-Notes - check :
-Painting the complete picture
-Immediate success - box office
+//Notes - check :
+//Painting the complete picture
+//Immediate success - box office
 
-When premiering, Legacy (evt. bias)
+//When premiering, Legacy (evt. bias)
 
 
 
@@ -48,16 +48,15 @@ plotly example 4
 {% include example_sent2.html %}
 
 
-
-<h3> Setting (maybe remove title) </h3>
-
-Explain the basic setting (which years). Simple summary of movies in the years 2015-2020 
-(MOVIE INVESTIGATIONS)
-
-
 <h2> How did we receive premiering movies? </h2>
 
-<h3> Revenue of movies (Box Office) </h3>
+<h3> Relation Between Quotes and BoxOffice </h3>
+We wanted to find out whether there was a correlation between a movies total publicity, eg. number of quotes, and total income, eg. Box Office. For this we used two datasets:
+<ul>
+   <li>QuoteBank, which is a bank of quotes. This was filtered to contain only quotes that mention movies.</li>
+   <li>IMDb, which is a dataset taken from their website. It has a list of features for each movie such as IMDb-rating, total domestic Box Office (domestic meaning US-based).</li>
+</ul>
+
 
 <ul>
    <li> Which one was most incoming movie, etc. </li>
