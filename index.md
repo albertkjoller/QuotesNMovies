@@ -9,45 +9,6 @@ It is important, before we start, to be on the same page with a few things, that
 With that being said, let’s begin by asking ourselves; how does the public coverage of movies in media relate to the success of the movies concerned?
 
 
-
-
-//Notes - check :
-//Painting the complete picture
-//Immediate success - box office
-
-//When premiering, Legacy (evt. bias)
-
-
-
-```markdown
-```
-
-
-
-```markdown
-plotly example 1
-```
-{% include example.html %}
-
-
-```markdown
-plotly example 2
-```
-{% include example2.html %}
-
-
-```markdown
-plotly example 3
-```
-{% include example_sent.html %}
-
-
-```markdown
-plotly example 4
-```
-{% include example_sent2.html %}
-
-
 <h2> Relation Between Publicity and Movie Success</h2>
 In this section, we will focus on the success of movies. This means that IMDb-ratings will not be reviewed in this section. We will use three datasets, and for good measure, they should be introduced to you here.
 
@@ -119,11 +80,33 @@ Bias in ratings
 
 
 
-```markdown
-codebox example
-```
 
 ```markdown
 ```
+
+
+
+```markdown
+plotly example 1
+```
+{% include example.html %}
+
+
+```markdown
+plotly example 2
+```
+{% include example2.html %}
+
+
+```markdown
+plotly example 3
+```
+{% include example_sent.html %}
+
+
+```markdown
+plotly example 4
+```
+{% include example_sent2.html %}
 
 <h2> Conclusion </h2>
