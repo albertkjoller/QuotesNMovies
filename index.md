@@ -48,14 +48,29 @@ plotly example 4
 {% include example_sent2.html %}
 
 
-<h2> How did we receive premiering movies? </h2>
+<h2> Relation Between Publicity and Movie Success</h2>
+In this section, we will focus on the success of movies. This means that IMDb-ratings will not be reviewed in this section. We will use three datasets, and for good measure, they should be introduced to you here.
 
-<h3> Relation Between Quotes and BoxOffice </h3>
-We wanted to find out whether there was a correlation between a movies total publicity, eg. number of quotes, and total income, eg. Box Office. For this we used two datasets:
 <ul>
    <li>QuoteBank, which is a bank of quotes. This was filtered to contain only quotes that mention movies.</li>
    <li>IMDb, which is a dataset taken from their website. It has a list of features for each movie such as IMDb-rating, total domestic Box Office (domestic meaning US-based).</li>
+   <li>boxOffice is the last dataset. It contains time-series data for movie attributes such as domestic Box Office.</li>
 </ul>
+
+<h2> Comparing Quotes and Domestic Box Office</h2>
+
+We wanted to find out whether there was a correlation between a movie's total publicity, eg. number of quotes, and total income, eg. Box Office. We started by fitting a linear regression to two variables. X was going to be the total domestic box office for a given movie and Y was going to be the total number of quotes about that movie. It looked a little something like this:
+
+##ADD PLOT OF LINREG##
+
+The blue dots are all of our values with an X and Y value, while the blue line is the linear regression. As you can see, the line doesn't fit the data perfectly, but it is actually statistically significant anyway. That means that we can in fact conclude that there is a positive correlation between the two variables. Or in other words; when a movie has a higher box office, there tend to be more publicity around that movie. 
+
+Well, let's see what the opinion in the coverage of movies has to say. Is bad publicity still good publicity? For this task, we
+
+Okay, that was total quotes and total box office for movies. But imagine you read the news paper today and see an article about the new Star Wars movie. You decide to go to a theater and watch it, because of that news article. Are you alone, or is it something people generally do? Let's use an example.
+
+{% include example_sent2.html %}
+
 
 
 <ul>
