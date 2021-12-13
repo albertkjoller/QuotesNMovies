@@ -69,7 +69,7 @@ Well, let's see what the opinion in the coverage of movies has to say. Is bad pu
 
 Okay, that was total quotes and total box office for movies. But imagine you read the news paper today and see an article about the new Star Wars movie. You decide to go to a theater and watch it, because of that news article. Are you alone, or is it something people generally do? Let's use an example.
 
-{% include star_wars_quotes_box.png %}
+{% include star_wars_quotes_box.html %}
 
 
 
