@@ -65,12 +65,15 @@ We wanted to find out whether there was a correlation between a movie's total pu
 
 The blue dots are all of our values with an X and Y value, while the blue line is the linear regression. As you can see, the line doesn't fit the data perfectly, but it is actually statistically significant anyway. That means that we can in fact conclude that there is a positive correlation between the two variables. Or in other words; when a movie has a higher box office, there tend to be more publicity around that movie. 
 
-Well, let's see what the opinion in the coverage of movies has to say. Is bad publicity still good publicity? For this task, we
+Well, let's see what the opinion in the coverage of movies has to say. Is bad publicity still good publicity? For this task, we #ALBERT WHAT DO WE DOOOO?#
 
 Okay, that was total quotes and total box office for movies. But imagine you read the news paper today and see an article about the new Star Wars movie. You decide to go to a theater and watch it, because of that news article. Are you alone, or is it something people generally do? Let's use an example.
 
 {% include star_wars_quotes_box.html %}
 
+This is the latest movie in the Star Wars saga. The blue bars show you the daily domestic income, while the red bars show you the daily number of quotes. You can hover your mouse on the bars and get more information, if you want. One might speculate that if our hypothesis above, that everyone watches movies based on publicity of the movies, is true the red and blue bars should follow each other. If only a few quotes were in the news on a given day, the box office for the same day or the next day should also be pretty low compared to days with high media coverage.
+
+Does the bar plot follow this hypothesis? Not really, no. This means that although there might generally be more total quotes for blockbusters, there is not really a daily correlation between quotes and movie success.
 
 
 <ul>
