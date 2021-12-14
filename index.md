@@ -60,17 +60,39 @@ In terms of sentiment of quotations:
 <h3> Rating of movies (IMDb) </h3>
 (Some of RQ2)
 
-| <b> Score </b> | <b> Minimum </b> | <b> Maximum </b> | <b> Avg. </b> |
-
-| Sentiment | 5.6 | 8.5 | 7.2 |
-
-| IMDb users |  5.6 | 8.5 | 7.2 |
-
-| IMDb critics | 3.3 | 9.5 | 6.8 |
-
-| IMDb mixed | 4.5 | 8.8 | 7.0 |
-
-
+<table>
+   <caption> Ratings of movies </caption>
+   <tr>
+      <th> <b> Score </b> </th>
+      <th> <b> Minimum </b> </th>
+      <th> <b> Maximum </b> </th>
+      <th> <b> Average </b> </th>
+   </tr>
+   <tr>
+      <th> Sentiment based </th>
+      <th> 4.6 </th>
+      <th> 9.0 </th>
+      <th> 6.9 </th>
+   </tr>
+   <tr>
+      <th> IMDb users </th>
+      <th> 5.6 </th>
+      <th> 8.5 </th>
+      <th> 7.2 </th>
+   </tr>
+   <tr>
+      <th> IMDb critics </th>
+      <th> 3.3 </th>
+      <th> 9.5 </th>
+      <th> 6.8 </th>
+   </tr>
+   <tr>
+      <th> IMDb critics </th>
+      <th> 4.5 </th>
+      <th> 8.8 </th>
+      <th> 7.0 </th>
+   </tr>
+</table>
 
 
 <ul>
