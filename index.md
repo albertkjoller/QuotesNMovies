@@ -61,7 +61,6 @@ In terms of sentiment of quotations:
 (Some of RQ2)
 
 <table>
-   <caption> Ratings of movies </caption>
    <tr>
       <th> <b> Score </b> </th>
       <th> <b> Minimum </b> </th>
@@ -69,7 +68,7 @@ In terms of sentiment of quotations:
       <th> <b> Average </b> </th>
    </tr>
    <tr>
-      <th> Sentiment based </th>
+      <th> <it> Sentiment based </it> </th>
       <th> 4.6 </th>
       <th> 9.0 </th>
       <th> 6.9 </th>
@@ -92,6 +91,7 @@ In terms of sentiment of quotations:
       <th> 8.8 </th>
       <th> 7.0 </th>
    </tr>
+   <caption> Different ratings of movies </caption>
 </table>
 
 
