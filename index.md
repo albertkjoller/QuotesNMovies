@@ -25,11 +25,11 @@ This is only true for some movies.
 
 {% include dailyNumQuotes_boxOffice.html %}
 
-<h3> Media coverage </h3>
+For some movies, the quotes do have a relation to the box office of the movies. Let's see if the sentiment of the quotes relate to the box office of the movies too. The sentiment means the positive or negative score of a quote:
 
-
-In terms of sentiment of quotations:
 {% include dailySent_boxOffice.html %}
+
+Okay, fewer movies have a relation to the sentiment of the quotes.
 
 
 ```markdown
