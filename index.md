@@ -10,13 +10,9 @@ With that being said, let’s begin by asking ourselves; how does the public cov
 
 
 <h2> Relation Between Publicity and Movie Success</h2>
-In this section, we will focus on the success of movies. This means that IMDb-ratings will not be reviewed in this section. We will use three datasets, and for good measure, they should be introduced to you here.
+In this section, we will focus on the success of movies.
 
-<ul>
-   <li>QuoteBank, which is a bank of quotes. This was filtered to contain only quotes that mention movies.</li>
-   <li>IMDb, which is a dataset taken from their website. It has a list of features for each movie such as IMDb-rating, total domestic Box Office (domestic meaning US-based).</li>
-   <li>boxOffice is the last dataset. It contains time-series data for movie attributes such as domestic Box Office.</li>
-</ul>
+
 
 <h2> Comparing Quotes and Domestic Box Office</h2>
 
