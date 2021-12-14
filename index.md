@@ -28,7 +28,7 @@ Between 2015-2020 ... movies were on-screen... in movie theaters...
 
 <!-- Comment (think we should avoid talking about sections): In this section, we will focus on the success of movies. -->
 
-{% include totalBoxOffice.html %}
+{% include totalBoxOffice.html %}{width=50%}
 
 <h3> Comparing Quotes and Domestic Box Office</h3>
 Imagine you read the news paper today and see an article about the new Star Wars movie. You decide to go to a theater and watch it, because of that news article. Are you alone, or is it something people generally do? Let's use an example.
@@ -62,28 +62,28 @@ Okay, fewer movies have a relation to the sentiment of the quotes.
       <th> <b> Average </b> </th>
    </tr>
    <tr>
-      <td> Sentiment based </th>
-      <td> 4.6 </th>
-      <td> 9.0 </th>
-      <td> 6.9 </th>
+      <td> Sentiment based </td>
+      <td> 4.6 </td>
+      <td> 9.0 </td<
+      <td> 6.9 </td>
    </tr>
    <tr>
-      <td> IMDb users </th>
-      <td> 5.6 </th>
-      <td> 8.5 </th>
-      <td> 7.2 </th>
+      <td> IMDb users </td>
+      <td> 5.6 </td>
+      <td> 8.5 </td>
+      <td> 7.2 </td>
    </tr>
    <tr>
-      <td> IMDb critics </th>
-      <td> 3.3 </th>
-      <td> 9.5 </th>
-      <td> 6.8 </th>
+      <td> IMDb critics </td>
+      <td> 3.3 </td>
+      <td> 9.5 </td>
+      <td> 6.8 </td>
    </tr>
    <tr>
-      <td> IMDb critics </th>
-      <td> 4.5 </th>
-      <td> 8.8 </th>
-      <td> 7.0 </th>
+      <td> IMDb critics </td>
+      <td> 4.5 </td>
+      <td> 8.8 </td>
+      <td> 7.0 </td>
    </tr>
    <caption> Different ratings of movies </caption>
 </table>
