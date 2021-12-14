@@ -30,9 +30,6 @@ Between 2015-2020 ... movies were on-screen... in movie theaters...
 
 {% include totalBoxOffice.html height=250 %}
 
-{% include totalBoxOffice.html width=50 %}
-
-
 
 <h3> Comparing Quotes and Domestic Box Office</h3>
 Imagine you read the news paper today and see an article about the new Star Wars movie. You decide to go to a theater and watch it, because of that news article. Are you alone, or is it something people generally do? Let's use an example.
