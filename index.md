@@ -28,6 +28,7 @@ Between 2015-2020 ... movies were on-screen... in movie theaters...
 
 <!-- Comment (think we should avoid talking about sections): In this section, we will focus on the success of movies. -->
 
+###Do something about this...
 {% include totalBoxOffice.html height=250 %}
 
 
