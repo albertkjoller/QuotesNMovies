@@ -15,7 +15,7 @@ If you're ready? Let's start!
 <h2> <it> Fast Facts </it> on recently published movies </h2>
 
 <!-- Movies intro -->
-In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> </font> movies premiered in movie theaters in the United States.
+In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> Movies </font> premiered in movie theaters in the United States.
 {% include yearly_movies.html %}
 
 <!-- Box Office intro -->
@@ -30,7 +30,7 @@ The top-ranking movies in terms of income in each year heavily battled the top-r
 {% include totalBoxOffice.html %}
 
 <!-- Quotes intro -->
-In this same period a total of <font size="+4"> <b> 70.180</b> </font> quotes related to Top 10 movies within each year were printed on online media webpages.
+In this same period a total of <font size="+4"> <b> 70.180 Quotes </b> </font> related to Top 10 movies within each year were printed on online media webpages.
 {% include yearly_Quotes.html %}
 
 
