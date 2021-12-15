@@ -14,7 +14,12 @@ If you're ready? Let's start!
 
 <h2> Facts about recently published movies </h2>
 
-Between 2015-2020  <font size="+5"> 100.000! </font> movies were on-screen... in movie theaters...
+In the period between 2015-2020  <font size="+4"> 2486 </font> movies premiered in movie theaters in the United States.
+
+{% include yearly_movies.html %}
+
+
+
 
 ###Specific plots that we do not necessarily use in the RQ's but are useful for the story telling.
 
