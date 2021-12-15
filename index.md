@@ -8,16 +8,19 @@ This data story intends to guide you through an exciting universe of Quotes'N'Mo
 We hope to broaden your mind and get you to realize that there is possibly other factors associated with a movie's success than its quality!
 
 <!-- We will find out how general publicity around movies "correlate/doesnt" with movie success, how public opinion on a movie "correlate/doesnt" with movie success and legacy, and finally we will try to understand where we may have biases regarding public opinion and IMDb ratings of movies. These are the three general topics we will cover but in each section we will answer subquestions and show you the wonderful visualisations that can be created with data.-->
-
 <!-- Nice points but save them untill they're relevant: It is important, before we start, to be on the same page with a few things, that we will bring up a lot. We will be working with movies that were released to theaters in the time period 2015 to 2020. It will not be all movies since that would require us to use cloud computing, so we have chosen 56 American movies. We will use success defined by Box Office income for a given movie (money earned through theater-tickets) and the legacy of a movie is defined by the IMDb rating of that movie. The reason we separate these two terms is, that while Box Office will only be accumulated during the period of theatrical release, the IMDb rating can keep changing right until we downloaded the data this fall.-->
 
 If you're ready? Let's start!
 
-<h2> ###Maybe a title - at least something to mark the difference </h2>
+<h2> Facts about recently published movies </h2>
 
-Between 2015-2020 ... movies were on-screen... in movie theaters...
+Between 2015-2020  <font size="+5"> 100.000! </font> movies were on-screen... in movie theaters...
 
 ###Specific plots that we do not necessarily use in the RQ's but are useful for the story telling.
+
+The Top 10 movies in terms of income from Box Office sales
+
+{% include totalBoxOffice.html %}
 
 
 <!-- With that being said, let’s begin by asking ourselves; how does the public coverage of movies in media relate to the success of the movies concerned? -->
@@ -27,9 +30,6 @@ Between 2015-2020 ... movies were on-screen... in movie theaters...
 <!-- Old title: Relation Between Publicity and Movie Success -->
 
 <!-- Comment (think we should avoid talking about sections): In this section, we will focus on the success of movies. -->
-
-###Do something about this...
-{% include totalBoxOffice.html height=250 %}
 
 
 <h3> Comparing Quotes and Domestic Box Office</h3>
