@@ -20,7 +20,7 @@ Between 2015-2020  <font size="+5"> 100.000! </font> movies were on-screen... in
 
 The Top 10 movies in terms of income from Box Office sales
 
-{% include totalBoxOffice.html %}
+{% include totalBoxOffice.html height=250 %}
 
 
 <!-- With that being said, let’s begin by asking ourselves; how does the public coverage of movies in media relate to the success of the movies concerned? -->
