@@ -12,20 +12,34 @@ We hope to broaden your mind and get you to realize that there is possibly other
 
 If you're ready? Let's start!
 
-<h2> Facts about recently published movies </h2>
+<h2> <it> Fast Facts </it> on recently published movies </h2>
 
-In the period between 2015-2020  <font size="+4"> 2486 </font> movies premiered in movie theaters in the United States.
+In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> </font> movies premiered in movie theaters in the United States.
 
 {% include yearly_movies.html %}
 
 
+The total revenue from Box Office sales at the U.S. cinemas was <font size="+4"> 56.43$ billions </font>.
 
+{% include yearly_BoxOffice.html %}
 
-###Specific plots that we do not necessarily use in the RQ's but are useful for the story telling.
+The total income from ticket sales within each years were heavily impacted by a small set of the movies broadcasted within that year.
+
+{% include yearly_BoxOfficeByMovie.html %}
+
 
 The Top 10 movies in terms of income from Box Office sales
 
-{% include totalBoxOffice.html height=250 %}
+{% include totalBoxOffice.html %}
+
+
+
+
+
+
+In the same period...QUOTES!
+
+{% include yearly_Quotes.html %}
 
 
 <!-- With that being said, let’s begin by asking ourselves; how does the public coverage of movies in media relate to the success of the movies concerned? -->
