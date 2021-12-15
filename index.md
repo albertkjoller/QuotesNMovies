@@ -15,11 +15,11 @@ If you're ready? Let's start!
 <h2> <it> Fast Facts </it> on recently published movies </h2>
 
 <!-- Movies intro -->
-In the periode between 2015-2020 a total of <font size="+3"> <b> 2486 </b> movies </font> premiered in movie theaters in the United States.
+In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> movies </font> premiered in movie theaters in the United States.
 {% include yearly_movies.html %}
 
 <!-- Box Office intro -->
-The total revenue from Box Office sales within this period was <font size="+3"> <b> US$ 56.43 Billion </b> dollars </font> at the U.S. cinemas
+The total revenue from Box Office sales within this period was <font size="+4"> <b> US$ 56.43 Billion </b> dollars </font> at the U.S. cinemas
 {% include yearly_BoxOffice.html %}
 <!-- Maybe use this instead: The total income from ticket sales within each years were heavily impacted by a small set of the movies broadcasted within that year. -->
 A handfull of movies within each year were the major actors in terms of income from ticket sales. The Top 10 movies within each year occupy a major part of the total Box Office sales.
@@ -30,7 +30,7 @@ The top-ranking movies in terms of income in each year heavily battled the top-r
 {% include totalBoxOffice.html %}
 
 <!-- Quotes intro -->
-In this same period a total of <font size="+3"> <b> 70.180 </b> quotes </font> related to Top 10 movies within each year were printed on online media webpages.
+In this same period a total of <font size="+4"> <b> 70.180 </b> quotes </font> related to Top 10 movies within each year were printed on online media webpages.
 {% include yearly_Quotes.html %}
 
 
