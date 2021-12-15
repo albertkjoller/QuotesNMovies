@@ -19,9 +19,10 @@ In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> </fon
 {% include yearly_movies.html %}
 
 <!-- Box Office intro -->
-The total revenue from Box Office sales at the U.S. cinemas was <font size="+4"> 56.43$ billions </font>.
+The total revenue from Box Office sales at the U.S. cinemas was <font size="+4"> 56.43$ Billions </font>.
 {% include yearly_BoxOffice.html %}
-The total income from ticket sales within each years were heavily impacted by a small set of the movies broadcasted within that year.
+<!-- Maybe use this instead: The total income from ticket sales within each years were heavily impacted by a small set of the movies broadcasted within that year. -->
+A handfull of movies within each year were the major actors in terms of income from ticket sales. The Top 10 movies within each year occupy a major part of the total Box Office sales.
 {% include yearly_BoxOfficeByMovie.html %}
 
 <!-- Box Office raceplot -->
@@ -35,9 +36,8 @@ In this same period a total of <font size="+4"> <b> 70.180</b> </font> quotes re
 
 
 
-
-
 <!-- With that being said, let’s begin by asking ourselves; how does the public coverage of movies in media relate to the success of the movies concerned? -->
+
 
 
 
