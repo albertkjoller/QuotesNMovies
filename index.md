@@ -1,8 +1,8 @@
 <h1> Quotes'N'Movies </h1>
 
-Everyone loves a good movie. But how much does your decision to go to a movie theater to watch a movie depend on recommendations from other people? Movies are constantly being covered in the media in both positive and negative ways and it is not hard to imagine that statements from movie critics or interviews with actors and actresses could potentially influence how you receive the movie. And in which way? Have you ever wondered whether the old saying “bad publicity is good publicity” is in fact true or not in relation to movies? 
+The Cinematic Art is one of the [most important arts in Humanity](https://notesread.com/importance-of-cinema/) and with its wide-ranging scope of artistic story telling and visual creativity, even the greatest film critic has a favourite movie. Already in 2009, the amount of tickets sold for movie theaters [was on scale with the number of living people across the planet](https://thoughteconomics.com/the-role-of-film-in-society/) - the movie industry has grown to be one of the larger industries in terms of revenue. With its wide-ranging ... and ability to catch the viewer, movies constitute a potential arena for affecting Societal opinions and tendencies. The affective power of movies are thus important to have in mind when considering the Cinematic Art.
 
-###COMMENT: Facts about movies - how many tickets a year or something - kind of intro to the industry without using our data but facts from a good article instead maybe?
+Have you ever had the thought that your decision to go to a movie theater and watch a movie possibly depends on recommendations from other people? Movies are constantly being covered in the media in both positive and negative ways and it is not hard to imagine that statements from movie critics or interviews with actors and actresses could potentially influence how you receive the movie. And in which way? Could it be that the old saying “bad publicity is good publicity” is in fact true or is it just an outdated saying? 
 
 This data story intends to guide you through an exciting universe of Quotes'N'Movies: an intriguing visual investigation on the publicity, success and legacy of recently published movies. 
 We hope to broaden your mind and get you to realize that there is possibly other factors associated with a movie's success than its quality!
@@ -19,7 +19,7 @@ In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> movie
 {% include yearly_movies.html %}
 
 <!-- Box Office intro -->
-The total revenue from Box Office sales within this period was <font size="+4"> <b> US$ 56.43 Billion </b> Dollars </font> at the U.S. cinemas
+The total revenue from Box Office sales within this period was <font size="+4"> <b> US$ 56.43 Billion </b> dollars </font> at the U.S. cinemas
 {% include yearly_BoxOffice.html %}
 <!-- Maybe use this instead: The total income from ticket sales within each years were heavily impacted by a small set of the movies broadcasted within that year. -->
 A handfull of movies within each year were the major actors in terms of income from ticket sales. The Top 10 movies within each year occupy a major part of the total Box Office sales.
