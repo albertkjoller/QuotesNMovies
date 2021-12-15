@@ -26,7 +26,7 @@ A handfull of movies within each year were the major actors in terms of income f
 {% include yearly_BoxOfficeByMovie.html %}
 
 <!-- Box Office raceplot -->
-The Top 10 premiering movies within a year battled the previously released Top 10 movies strongly to beat them and become the most revenuing movies between 2015-2020.
+The top-ranking movies in terms of income in each year heavily battled the top-ranking movies from other years in the combat for becoming the most successfull movie in the period in terms of revenue.
 {% include totalBoxOffice.html %}
 
 <!-- Quotes intro -->
