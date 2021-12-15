@@ -97,7 +97,7 @@ Okay, fewer movies have a relation to the sentiment of the quotes.
       <td> 6.8 </td>
    </tr>
    <tr>
-      <td> IMDb critics </td>
+      <td> IMDb mixed reviewers </td>
       <td> 4.5 </td>
       <td> 8.8 </td>
       <td> 7.0 </td>
