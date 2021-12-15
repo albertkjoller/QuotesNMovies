@@ -14,40 +14,35 @@ If you're ready? Let's start!
 
 <h2> <it> Fast Facts </it> on recently published movies </h2>
 
+<!-- Movies intro -->
 In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> </font> movies premiered in movie theaters in the United States.
-
 {% include yearly_movies.html %}
 
-
-A total of <font size="+4"> <b> 56.43$ </b> </font> Billion U.S. Dollars was earned from ticket sales at the U.S. Box Offices. 
-
+<!-- Box Office intro -->
+The total revenue from Box Office sales at the U.S. cinemas was <font size="+4"> 56.43$ billions </font>.
 {% include yearly_BoxOffice.html %}
-
-A handfull of movies within each year were the major actors in terms of income and ticket sales. As can be seen in the following figure the Box Office income for these movies occupy a major part of the total Box Office sales.
-
+The total income from ticket sales within each years were heavily impacted by a small set of the movies broadcasted within that year.
 {% include yearly_BoxOfficeByMovie.html %}
 
-
-The Top 10 movies in terms of income from Box Office sales
-
+<!-- Box Office raceplot -->
+The Top 10 premiering movies within a year battled the previously released Top 10 movies strongly to beat them and become the most revenuing movies between 2015-2020.
 {% include totalBoxOffice.html %}
 
-
-
-
-
-
-In the same period...QUOTES!
-
+<!-- Quotes intro -->
+In this same period a total of <font size="+4"> <b> 70.180</b> </font> quotes related to Top 10 movies within each year were printed on online media webpages.
 {% include yearly_Quotes.html %}
+
+
+
+
 
 
 <!-- With that being said, let’s begin by asking ourselves; how does the public coverage of movies in media relate to the success of the movies concerned? -->
 
 
+
 <h2> How does the coverage of movies relate to their success when airing? </h2>
 <!-- Old title: Relation Between Publicity and Movie Success -->
-
 <!-- Comment (think we should avoid talking about sections): In this section, we will focus on the success of movies. -->
 
 
