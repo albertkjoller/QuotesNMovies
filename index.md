@@ -19,11 +19,11 @@ In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> </fon
 {% include yearly_movies.html %}
 
 
-The total revenue from Box Office sales at the U.S. cinemas was <font size="+4"> 56.43$ billions </font>.
+A total of <font size="+4"> <b> 56.43$ </b> </font> Billion U.S. Dollars was earned from ticket sales at the U.S. Box Offices. 
 
 {% include yearly_BoxOffice.html %}
 
-The total income from ticket sales within each years were heavily impacted by a small set of the movies broadcasted within that year.
+A handfull of movies within each year were the major actors in terms of income and ticket sales. As can be seen in the following figure the Box Office income for these movies occupy a major part of the total Box Office sales.
 
 {% include yearly_BoxOfficeByMovie.html %}
 
