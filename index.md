@@ -56,6 +56,7 @@ Okay, fewer movies have a relation to the sentiment of the quotes.
 
 ### RQ2 conclusion?
 
+<center>
 <table class="center">
    <tr>
       <th> <b> Score </b> </th>
@@ -89,7 +90,7 @@ Okay, fewer movies have a relation to the sentiment of the quotes.
    </tr>
    <caption> Different ratings of movies </caption>
 </table>
-
+</center>
 
 
 <ul>
