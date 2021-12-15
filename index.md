@@ -12,7 +12,7 @@ We hope to broaden your mind and get you to realize that there is possibly other
 
 If you're ready? Let's start!
 
-<h2> <it> Fast Facts </it> on recently published movies </h2>
+<h2> <em> Cinematastic Facts </em> about recently published movies </h2>
 
 <!-- Movies intro -->
 In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> movies </font> premiered in movie theaters in the United States.
