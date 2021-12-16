@@ -62,8 +62,7 @@ So in general, there is a positive relation on paper between the total sentiment
 
 As it turns out, this assumption is in fact true - Box Office revenue seem to follow trends in time. For instance, the income on weekdays is peaking on Friday and Saturday - it seems like people favor to watch cinema movies in their weekend.
 
-###Plot the amount of box office per weekday barplot as motivation for looking into time series.
-<img src="./assets/images/movie.png" width="200" />
+{% include BoxOffice_dow.html %}
 
 Observing this trend, we start asking ourselves whether the relation between movies and quotes observed is also occuring when encountering temporal trends of ticket sales as well as the number of quotes and their positive/negative sentiment. Let's dive into it and start with an example!
 

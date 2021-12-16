@@ -7,13 +7,15 @@
   {% endfor %}
 {% endif %}
 
-{% include dailySent_boxOffice.html %}
+{% all_BoxOffice.html %}
+{% BoxOffice_dow.html %}
 {% include dailyNumQuotes_boxOffice.html %}
+{% include dailySent_boxOffice.html %}
 {% include star_wars_quotes_box.html %}
 {% include totalBoxOffice.html %}
 {% include totalSentiment.html %}
-{% include yearly_Quotes.html %}
-{% include yearly_movies.html %}
 {% include yearly_BoxOffice.html %}
 {% include yearly_BoxOfficeByMovie.html %}
+{% include yearly_movies.html %}
+{% include yearly_Quotes.html %}
 
