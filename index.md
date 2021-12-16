@@ -41,12 +41,29 @@ In this same period a total of <font size="+4"> <b> 70.180 </b> quotes </font> r
 
 
 
-<h2> How does the coverage of movies relate to their success when airing? </h2>
+<h2> How did coverage of movies relate to their success when played on-screen? </h2>
 <!-- Old title: Relation Between Publicity and Movie Success -->
 <!-- Comment (think we should avoid talking about sections): In this section, we will focus on the success of movies. -->
 
+###Sugestion: Tell the story from RQ1 - without encountering temporal data but just looking at sums.
+Also tell it about the sentiment in the non-temporal setting
 
-<h3> Comparing Quotes and Domestic Box Office</h3>
+###Conc: On a movie sequence level: linear relation between revenue and number of quotes - both ways (which plots???) - high in cause high in another.
+This is also the case for sentiment --> at least we can say that the total sentiment of a given movie within the period it airs on paper impacts the box office on a movie sequence level. 
+
+
+<h3> On a daily basis </h3>
+<!-- <h3> Comparing Quotes and Domestic Box Office</h3> -->
+
+Diving in to the temporal patterns of ... movie releases... gives a more complete picture of the tendencies.
+
+###Sugestion: Start with an example? Then follow same approach as above - encountering temporal data - conclusion from Granger causality.
+Also - again - tell it for the sentiment.
+###Conc: On the movie basis it feels safe to say that box office sales are caused by the number of quotes for the majority of the investigated movies. This is not generalizable to every movie and we are not able to conclude whether high or low number of quotes causes a high or low box office income for the specific movies.
+Same is the case for the sentiment --> Here majority of movies' box office are caused by total sentiment but the results are even less generalizable than for the number of quotes. Maybe why the positive correlation is of.
+
+
+
 Imagine you read the news paper today and see an article about the new Star Wars movie. You decide to go to a theater and watch it, because of that news article. Are you alone, or is it something people generally do? Let's use an example.
 
 {% include star_wars_quotes_box.html %}
@@ -64,11 +81,16 @@ For some movies, the quotes do have a relation to the box office of the movies. 
 Okay, fewer movies have a relation to the sentiment of the quotes.
 
 
-<h2> How did we respond to the movies? </h2>
 
-<h3> Rating of movies (IMDb) </h3>
+<h2> A movie's legacy - how did we respond? </h2>
 
-### RQ2 conclusion?
+###Sugestion: General introduction to IMDb ratings! Summary plots etc.
+Then continue to the sentiment score --> should we include a temporal aspect here or is it stupid for the story?
+###Conc: Sentiment scores do seem (from a first sight) to be comparable to the other metrics. However, it is not
+	observed to be the case that the sentiment scores agree with either critics or users when investigating the selected movie series.
+	We see that it resembles even more the combined user/critic score but is still not significant.
+	Critics and users do not agreee either - thus the sentiment COULD be a valid approach for legacy
+	that is a unique metric and reveals other information than the ratings.
 
 <center>
 <table class="center">
@@ -79,25 +101,25 @@ Okay, fewer movies have a relation to the sentiment of the quotes.
       <th> <b> Average </b> </th>
    </tr>
    <tr>
-      <td> Sentiment based </td>
+      <td> <i> Sentiment based </i> </td>
       <td> 4.6 </td>
       <td> 9.0 </td>
       <td> 6.9 </td>
    </tr>
    <tr>
-      <td> IMDb users </td>
+      <td> <i> IMDb users </i> </td>
       <td> 5.6 </td>
       <td> 8.5 </td>
       <td> 7.2 </td>
    </tr>
    <tr>
-      <td> IMDb critics </td>
+      <td> <i> IMDb critics </i> </td>
       <td> 3.3 </td>
       <td> 9.5 </td>
       <td> 6.8 </td>
    </tr>
    <tr>
-      <td> IMDb mixed reviewers </td>
+      <td> <i> IMDb mixed <i> </td>
       <td> 4.5 </td>
       <td> 8.8 </td>
       <td> 7.0 </td>
@@ -107,28 +129,17 @@ Okay, fewer movies have a relation to the sentiment of the quotes.
 </center>
 
 
-<ul>
-   <li> How are these in general? Main points of investigation of IMDb data </li>
-   <li> Is the sentiment of quotes over all time somewhat represented in the IMDb rating? </li>
-   <ul>
-      <li> Overall </li>
-      <li> Voters </li>
-      <li> Critics </li>
-   </ul>
-</ul>
+<h3> Are there systematic biases in the legacy? </h3>
 
-
-
-
-<h3> Do we need to be aware of biases in the legacy? </h3>
-Bias in ratings
-(RQ4)
-
-
-
-```markdown
-plotly example 1
-```
+###Sugestion: Cool bias plots on the IMDb data in general and related to sentiment and quotes etc.
 
 
 <h2> Conclusion </h2>
+
+   
+###No idea yet :-)
+   
+
+   
+<h2> References </h2>
+   
