@@ -51,6 +51,8 @@ Also tell it about the sentiment in the non-temporal setting
 ###Conc: On a movie sequence level: linear relation between revenue and number of quotes - both ways (which plots???) - high in cause high in another.
 This is also the case for sentiment --> at least we can say that the total sentiment of a given movie within the period it airs on paper impacts the box office on a movie sequence level. 
 
+![qmak](https://user-images.githubusercontent.com/57899625/146338088-08a20c40-a886-4bcd-823d-b97fe1607f9d.jpeg)
+
 
 <h3> On a daily basis </h3>
 <!-- <h3> Comparing Quotes and Domestic Box Office</h3> -->
