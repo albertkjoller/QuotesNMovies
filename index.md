@@ -44,8 +44,9 @@ In this same period a total of <font size="+4"> <b> 150.933 </b> quotes </font> 
 
 On the yearly level of total number of quotes and total income from movies it seems rather unlikely that quotes should affect the Box Office sales as the number of quotes in 2015-2016 compared to the later years do not look similar to the trend in total yearly Box Office revenue.
 
-On the other hand, when regarding movies in general - and thus not on a yearly basis - there is (on paper) a positive relation between the amount of quotes as well as the Box Office related for movies.
+On the other hand, when regarding movies in general - and thus not on a yearly basis - there is (on paper) a positive relation between the amount of quotes as well as the Box Office related for movies. Even though the trend in theory is valid, one can question whether the total number of quotes is in practice good for modeling the box office revenue as you can see that it's heavily affected by outliers:
 
+###Comment: Felix  plot - box office and quotes!
 <img src="./assets/images/movie.png" width="200" />
 
 So in general, the total income of a movie can to some extend be described by the total amount of quotes portraying the movie. But couldn't it also be the case that content of quotes has a say in describing Box Office sales? One way to look at content of quotes is by analyzing the sentiment of quotes - are they expressing a positive or negative opinion on the movie they concern? 
@@ -90,14 +91,15 @@ The tendency of quotes affecting box office sales when considering a temporal sc
 
 <h2> A movie's legacy - how did we respond? </h2>
 
+The income from ticket sales related to movies are not the only factor for determining the success of a movie - the public opinion on the quality of the movie should also be regarded as an important factor! In other words; there are more to a movie's legacy than it's box office sales.
+
+A good starting point for finding out how movies have been perceived is the [Internet Movie Database (IMDb)](https://www.imdb.com/). On IMDb, a wide range of meta-data is connected to movies - for instance, the cast of movies, production company, etc.. In regards to the legacy of movies it is especially interesting to have a look at the user and critics ratings of movies.
+
 ###Comment: I think something summary about IMDb data would be nice!
 <img src="./assets/images/movie.png" width="200" />
 
 
-###Sugestion: General introduction to IMDb ratings! Summary plots etc.
-Then continue to the sentiment score --> should we include a temporal aspect here or is it stupid for the story?
-
-###Conc: Sentiment scores do seem (from a first sight) to be comparable to the other metrics. However, it is not
+###Conc: Sentiment scores do seem (with a first glampse at the data) to be comparable to the other metrics. However, it is not
 	observed to be the case that the sentiment scores agree with either critics or users when investigating the selected movie series.
 	We see that it resembles even more the combined user/critic score but is still not significant.
 	Critics and users do not agreee either - thus the sentiment COULD be a valid approach for legacy
