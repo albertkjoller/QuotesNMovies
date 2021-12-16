@@ -90,8 +90,13 @@ The tendency of quotes affecting box office sales when considering a temporal sc
 
 <h2> A movie's legacy - how did we respond? </h2>
 
+###Comment: I think something summary about IMDb data would be nice!
+<img src="./assets/images/movie.png" width="200" />
+
+
 ###Sugestion: General introduction to IMDb ratings! Summary plots etc.
 Then continue to the sentiment score --> should we include a temporal aspect here or is it stupid for the story?
+
 ###Conc: Sentiment scores do seem (from a first sight) to be comparable to the other metrics. However, it is not
 	observed to be the case that the sentiment scores agree with either critics or users when investigating the selected movie series.
 	We see that it resembles even more the combined user/critic score but is still not significant.
@@ -148,4 +153,6 @@ Then continue to the sentiment score --> should we include a temporal aspect her
    
 <h2> References </h2>
    
-###IMDb Dataset, Quotebank, BoxOffice, etc. -- Bob West - ADA (CREDZ!)
+This project was made for the course [CS-401 Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2021/cs401/) at EPFL (fall 2021). We would like to acredit the authors of [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf), the [IMDb data set](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv) and [Box Office Mojo](https://www.boxofficemojo.com/daily/).
+
+Created by Albert Kjøller Jacobsen, Benedek Harsanyi, Felix Borum Burmester & Julian Schnitzler (Band name: F-JAB)
