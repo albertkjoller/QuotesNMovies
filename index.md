@@ -2,7 +2,7 @@
 
 The Cinematic Art is one of the [most important arts in Humanity](https://notesread.com/importance-of-cinema/) and with its wide-ranging scope of artistic story telling and visual creativity, even the greatest film critic has a favourite movie. Already in 2009, the amount of tickets sold for movie theaters [was on scale with the number of living people across the planet](https://thoughteconomics.com/the-role-of-film-in-society/) - the movie industry has grown to be one of the larger industries in terms of revenue. With its wide-ranging appeal and ability to catch the viewer, movies constitute a potential arena for affecting Societal opinions and tendencies. The affective power of movies are thus important to have in mind when considering the Cinematic Art.
 
-Have you ever had the thought that your decision to go to a movie theater and watch a movie possibly depends on recommendations from other people? Movies are constantly being covered in the media in both positive and negative ways and it is not hard to imagine that statements from movie critics or interviews with actors and actresses could potentially influence how you receive the movie. And in which way? Could it be that the old saying <size="+2"> <b> “bad publicity is good publicity” </b> </font> is in fact true or is it just an outdated saying? 
+Have you ever had the thought that your decision to go to a movie theater and watch a movie possibly depends on recommendations from other people? Movies are constantly being covered in the media in both positive and negative ways and it is not hard to imagine that statements from movie critics or interviews with actors and actresses could potentially influence how you receive the movie. And in which way? Could it be that the old saying <font size="+2"> <b> “bad publicity is good publicity” </b> </font> is in fact true or is it just an outdated saying? 
 
 This data story intends to guide you through an exciting universe of Quotes'N'Movies: an intriguing visual investigation on the publicity, success and legacy of recently published movies. 
 We hope to broaden your mind and get you to realize that there is possibly other factors associated with a movie's success than its quality!
@@ -46,12 +46,11 @@ On the yearly level of total number of quotes and total income from movies it se
 
 On the other hand, when regarding movies in general - and thus not on a yearly basis - there is (on paper) a positive relation between the amount of quotes as well as the Box Office related for movies. Even though the trend in theory is valid, one can question whether the total number of quotes is in practice good for modeling the box office revenue as you can see that it's heavily affected by outliers:
 
-###Comment: Felix  plot - box office and quotes!
-<img src="./assets/images/movie.png" width="200" />
+{% include tot_box_quotes.html %}
 
 So in general, the total income of a movie can to some extend be described by the total amount of quotes portraying the movie. But couldn't it also be the case that content of quotes has a say in describing Box Office sales? One way to look at content of quotes is by analyzing the sentiment of quotes - are they expressing a positive or negative opinion on the movie they concern? 
 
-<img src="./assets/images/movie.png" width="200" />
+{% include tot_box_sentiment.html %}
 
 So in general, there is a positive relation on paper between the total sentiment content of quotes and the total income from sold ticket for a movie. Though, we are missing the obvious here - ticket sales and quotes are not constant numbers, they are able to change over time and it is fairly reasonable to assume that the temporal aspect related to movies is important...
 
