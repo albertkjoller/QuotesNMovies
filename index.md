@@ -44,22 +44,17 @@ In this same period a total of <font size="+4"> <b> 70.180 </b> quotes </font> r
 <h2> How did coverage of movies relate to their success when played on-screen? </h2>
 <!-- RQ1 and RQ2 on a "high-level" - movie level -->
 
-###Conc: On a movie sequence level: linear relation between revenue and number of quotes - both ways (which plots???) - high in cause high in another.
-This is also the case for sentiment --> at least we can say that the total sentiment of a given movie within the period it airs on paper impacts the box office on a movie sequence level. 
-
 On the yearly level of total number of quotes and total income from movies it seems rather unlikely that quotes should affect the Box Office sales as the number of quotes in 2015-2016 compared to the later years do not look similar to the trend in total yearly Box Office revenue.
 
-On the other hand, when regarding movies in general - and thus not on a yearly basis - there is a positive relation between the amount of quotes as well as the Box Office related for movies.
+On the other hand, when regarding movies in general - and thus not on a yearly basis - there is (on paper) a positive relation between the amount of quotes as well as the Box Office related for movies.
 
 ![example](/assets/images/movie.png)
 
 So in general, the total income of a movie can to some extend be described by the total amount of quotes portraying the movie. But couldn't it also be the case that content of quotes has a say in describing Box Office sales? One way to look at content of quotes is by analyzing the sentiment of quotes - are they exåressing a positive or negative opinion on the movie they concern? 
 
-<center>
-![example](/assets/images/movie.png)
-</center>
+<img src="/assets/images/movie.png" width="200" />
 
-So in general, there is in fact a positive relation between the total sentiment content of quotes and the total income from sold ticket for a movie. Though, we are missing the obvious here - ticket sales and quotes are not constant numbers, they are able to change over time and it is fairly reasonable to assume that the temporal aspect related to movies is important...
+So in general, there is a positive relation on paper between the total sentiment content of quotes and the total income from sold ticket for a movie. Though, we are missing the obvious here - ticket sales and quotes are not constant numbers, they are able to change over time and it is fairly reasonable to assume that the temporal aspect related to movies is important...
 
 <h3> Quotes'N'Movies on a daily basis </h3>
 
