@@ -1,6 +1,6 @@
 <h1> Quotes'N'Movies </h1>
 
-Crash test - The Cinematic Art is one of the [most important arts in Humanity](https://notesread.com/importance-of-cinema/) and with its wide-ranging scope of artistic story telling and visual creativity, even the greatest film critic has a favourite movie. Already in 2009, the amount of tickets sold for movie theaters [was on scale with the number of living people across the planet](https://thoughteconomics.com/the-role-of-film-in-society/) - the movie industry has grown to be one of the larger industries in terms of revenue. With its wide-ranging appeal and ability to catch the viewer, movies constitute a potential arena for affecting Societal opinions and tendencies. The affective power of movies are thus important to have in mind when considering the Cinematic Art.
+The Cinematic Art is one of the [most important arts in Humanity](https://notesread.com/importance-of-cinema/) and with its wide-ranging scope of artistic story telling and visual creativity, even the greatest film critic has a favourite movie. Already in 2009, the amount of tickets sold for movie theaters [was on scale with the number of living people across the planet](https://thoughteconomics.com/the-role-of-film-in-society/) - the movie industry has grown to be one of the larger industries in terms of revenue. With its wide-ranging appeal and ability to catch the viewer, movies constitute a potential arena for affecting Societal opinions and tendencies. The affective power of movies are thus important to have in mind when considering the Cinematic Art.
 
 <center>
 <img src="./assets/images/george_lucas_walk_of_fame.jpeg" width="450" />
@@ -161,7 +161,8 @@ In addition quotes about movies given by men have a convincingly more negative p
 But is this tendency also seen throughout the IMDb ratings. As you know, there was no relation between IMDb scores and the sentiment scores obtained from quotes in the media. As you see, all average ratings of the considered movies given by female reviewers are consequently higher than the ratings given by men:
 {% include gender_rating.html %}
 
-In addition it is observed that most of the votes on the IMDb ratings comes people within the age groups from 18-30 years and 30-45 years. Especially people under 18 years old are underrepresented. When considering the scope that most movies have it seems rather unlikely that this trend should reflect the real-world scenario and it therefore seems obvious that the IMDb ratings are biased from mid-aging age groups.
+
+- For age groups: Most votes from 18-30 and 30-45, especially < 18 underrepresented
 {% include rq4_agegroups.html %}
 
 
@@ -169,7 +170,11 @@ In addition it is observed that most of the votes on the IMDb ratings comes peop
 
 
 <h2> Conclusion </h2>
-      
+   
+###No idea yet :-)
+
+Is bad publicity in fact good publicity?
+   
 
    
 <h2> References </h2>
