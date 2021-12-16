@@ -35,7 +35,7 @@ In this same period a total of <font size="+4"> <b> 150.933 </b> quotes </font> 
 {% include yearly_Quotes.html %}
 
 
-The majority of speakers associated with quotes related to top 10 movies within a year were mainly <font size="+4"> <b> US citizens </b> </font> and, furthermore, almost all speakers are citizens from native English countries. This fits perfectly with the setting of U.S. Domestic Box Office sales that was previously described.
+The majority of speakers associated with quotes related to top 10 movies within a year were mainly <font size="+3"> <b> US citizens </b> </font> and, furthermore, almost all speakers are citizens from native English countries. This fits perfectly with the setting of U.S. Domestic Box Office sales that was previously described.
 <img src="./assets/images/movie.png" width="200" />
 ###Comment: Pie chart of distribution of nationality of speakers.
 
