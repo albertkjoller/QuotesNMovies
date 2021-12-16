@@ -31,7 +31,7 @@ The top-ranking movies in terms of income in each year heavily battled the top-r
 {% include totalBoxOffice.html %}
 
 <!-- Quotes intro -->
-In this same period a total of <font size="+4"> <b> 70.180 </b> quotes </font> related to Top 10 movies within each year were printed on online media webpages.
+In this same period a total of <font size="+4"> <b> 150.933 </b> quotes </font> related to Top 10 movies within each year were printed on online media webpages.
 {% include yearly_Quotes.html %}
 
 
