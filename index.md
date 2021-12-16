@@ -51,7 +51,7 @@ On the yearly level of total number of quotes and total income from movies it se
 
 On the other hand, when regarding movies in general - and thus not on a yearly basis - there is a positive relation between the amount of quotes as well as the Box Office related for movies.
 
-![qmark](/assets/images/qmark.jpg)
+![qmark](/assets/images/movie.jpg)
 
 So in general, the total income of a movie can to some extend be described by the total amount of quotes portraying the movie. But couldn't it also be the case that content of quotes has a say in describing Box Office sales? One way to look at content of quotes is by analyzing the sentiment of quotes - are they exåressing a positive or negative opinion on the movie they concern? 
 
@@ -66,7 +66,7 @@ So in general, there is in fact a positive relation between the total sentiment 
 The temporal ....
 
 ###Plot the amount of box office per weekday barplot as motivation for looking into time series.
-![qmark]({{ site.url }}/assets/images/qmark.jpg)
+![qmark](/assets/images/movie.jpg)
 
 
 ###.
