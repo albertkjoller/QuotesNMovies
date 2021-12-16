@@ -22,7 +22,7 @@ In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> movie
 The total revenue from Box Office sales within this period was <font size="+3"> <b> US$ 56.43 Billion </b> dollars </font> at the U.S. cinemas
 {% include yearly_BoxOffice.html %}
 <!-- Maybe use this instead: The total income from ticket sales within each years were heavily impacted by a small set of the movies broadcasted within that year. -->
-A handfull of movies within each year were the major actors in terms of income from ticket sales. The Top 10 movies within each year occupy a major part of the total Box Office sales.
+A handfull of movies within each year were the major actors in terms of income from ticket sales. The top 10 movies within each year occupy a major part of the total Box Office sales. It is easily seen that the number of movies and the total box office sales within a year seem to follow a similar trend and are especially low. The deviation for 2020 is due to the societal impact of COVID-19.
 {% include yearly_BoxOfficeByMovie.html %}
 
 <!-- Box Office raceplot -->
@@ -42,20 +42,40 @@ In this same period a total of <font size="+4"> <b> 70.180 </b> quotes </font> r
 
 
 <h2> How did coverage of movies relate to their success when played on-screen? </h2>
-<!-- Old title: Relation Between Publicity and Movie Success -->
-<!-- Comment (think we should avoid talking about sections): In this section, we will focus on the success of movies. -->
-
-###Sugestion: Tell the story from RQ1 - without encountering temporal data but just looking at sums.
-Also tell it about the sentiment in the non-temporal setting
+<!-- RQ1 and RQ2 on a "high-level" - movie level -->
 
 ###Conc: On a movie sequence level: linear relation between revenue and number of quotes - both ways (which plots???) - high in cause high in another.
 This is also the case for sentiment --> at least we can say that the total sentiment of a given movie within the period it airs on paper impacts the box office on a movie sequence level. 
 
+On the yearly level of total number of quotes and total income from movies it seems rather unlikely that quotes should affect the Box Office sales as the number of quotes in 2015-2016 compared to the later years do not look similar to the trend in total yearly Box Office revenue.
+
+On the other hand, when regarding movies in general - and thus not on a yearly basis - there is a positive relation between the amount of quotes as well as the Box Office related for movies.
+
+<center>
 ![qmak](https://user-images.githubusercontent.com/57899625/146338088-08a20c40-a886-4bcd-823d-b97fe1607f9d.jpeg)
+</center>
+
+So in general, the total income of a movie can to some extend be described by the total amount of quotes portraying the movie. But couldn't it also be the case that content of quotes has a say in describing Box Office sales? One way to look at content of quotes is by analyzing the sentiment of quotes - are they exåressing a positive or negative opinion on the movie they concern? 
+
+<center>
+![qmak](https://user-images.githubusercontent.com/57899625/146338088-08a20c40-a886-4bcd-823d-b97fe1607f9d.jpeg)
+</center>
+
+So in general, there is in fact a positive relation between the total sentiment content of quotes and the total income from sold ticket for a movie. Though, we are missing the obvious here - ticket sales and quotes are not constant numbers, they are able to change over time and it is fairly reasonable to assume that the temporal aspect related to movies is important...
+
+<h3> Quotes'N'Movies on a daily basis </h3>
+
+The temporal ....
+
+###Plot the amount of box office per weekday barplot as motivation for looking into time series.
+<center>
+![qmak](https://user-images.githubusercontent.com/57899625/146338088-08a20c40-a886-4bcd-823d-b97fe1607f9d.jpeg)
+</center>
 
 
-<h3> On a daily basis </h3>
-<!-- <h3> Comparing Quotes and Domestic Box Office</h3> -->
+###.
+
+
 
 Diving in to the temporal patterns of ... movie releases... gives a more complete picture of the tendencies.
 
