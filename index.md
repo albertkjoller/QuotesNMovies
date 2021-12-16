@@ -158,13 +158,7 @@ As it turns out, the majority of quotes about the regarded movies comes from spe
 In addition quotes about movies given by men have a convincingly more negative phrasing than the ones given by females or other non-binary genders. Thus, quotes from men seem to be more critizising towards movies.
 {% include gender_Sentiment.html %}
 
-
-
-
-
-- Men have significant lower average rating per movie: 
-   - Lower on average for men than women,
-   - in numbers on average per movie more men than female votes.
+But is this tendency also seen throughout the IMDb ratings. As you know, there was no relation between IMDb scores and the sentiment scores obtained from quotes in the media. As you see, all average ratings of the considered movies given by female reviewers are consequently higher than the ratings given by men:
 {% include gender_rating.html %}
 
 - For age groups: Most votes from 18-30 and 30-45, especially < 18 underrepresented
