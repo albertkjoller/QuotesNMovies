@@ -74,7 +74,7 @@ Imagine you read the daily news papers this morning and read several people expr
 
 Is this just one isolated example or is the trend of quotes causing box office revenue in the temporal setting generalizable to movies in general?
 
-Digging into the temporal relations for quotes and sentiments to the income from ticket sales reveals that the trend observed for Star Wars VII does not generalize to movies from the combined list of top 10 movies from each year. The daily number of quotes about a movie do have an impact on the box office sales for the movie for most of the considered movies - but not for all of them:
+Digging into the temporal relations for quotes and sentiments to the income from ticket sales reveals that the trend observed for Star Wars VII does not generalize to movies from the combined list of top 10 movies from each year. The daily number of quotes about a movie do have an impact on the box office sales for the movie for most of the considered movies - but not for all of them. If you examine the bars below closely enough, you will be able to see that the Star Wars VII example is in fact true:
 
 {% include dailyNumQuotes_boxOffice.html %}
 
