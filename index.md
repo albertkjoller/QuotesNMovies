@@ -104,13 +104,7 @@ The tendency of quotes affecting box office sales when considering a temporal sc
 
 The income from ticket sales related to movies are not the only factor for determining the success of a movie - the public opinion on the quality of the movie should also be regarded as an important factor! In other words; there are more to a movie's legacy than it's box office sales.
 
-A good starting point for finding out how movies have been perceived is the [Internet Movie Database (IMDb)](https://www.imdb.com/). On IMDb, a wide range of meta-data is connected to movies - for instance, the cast of movies, production company, etc.. In regards to the legacy of movies it is especially interesting to have a look at the user and critics ratings of movies.
-
-Range between 1 and 10.
-
-###Comment: I think something summary about IMDb data would be nice!
-<img src="./assets/images/movie.png" width="200" />
-
+A good starting point for finding out how movies have been perceived is the [Internet Movie Database (IMDb)](https://www.imdb.com/). On IMDb, a wide range of meta-data is connected to movies - for instance, the cast of movies, production company, etc.. In regards to the legacy of movies it is especially interesting to have a look at the user and critics ratings of movies. IMDb scores are ranked on a scale between 1-10 and we can with some calculations express the critics score on this scale as well.
 
 Could it be that the sentiment that is associated with quotes is related to the rating people generally give a movie on IMDb? Or could it be that it resembles the ratings given by critics as critics are more likely to be quoted than regular IMDb voters? We re-expressed the sentiment scores calculated from quotes about movies to a rating that is comparable with the IMDb user and critic ratings. Let's have a look at it!
 
@@ -150,8 +144,10 @@ Could it be that the sentiment that is associated with quotes is related to the 
 </center>
 
 At the first glimpse it seems like sentiment scores are comparable to the metrics from IMDb - at least their minimum, maximum and average values take similar scores. This is however the only thing that the score has in common. It was found that the different ratings <font size="+2"> <b> do not agree </b> </font> on a significant amount of movies. Even the combined rating between IMDb users and critics is not comparable with the sentiment. The following figure should give an intuition of this:
+{% include scores.html %}
 
 It was found that critics and users do also not agreee. Thus, the using sentiment of quotes could be a valid and relevant additional metric for describing the legacy of movies - mabe IMDb should consider using it as a new feature? 
+
 
 
 <h3> Are there systematic biases in the legacy? </h3>
