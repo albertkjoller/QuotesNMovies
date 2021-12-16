@@ -48,7 +48,7 @@ On the other hand, when regarding movies in general - and thus not on a yearly b
 
 <img src="./assets/images/movie.png" width="200" />
 
-So in general, the total income of a movie can to some extend be described by the total amount of quotes portraying the movie. But couldn't it also be the case that content of quotes has a say in describing Box Office sales? One way to look at content of quotes is by analyzing the sentiment of quotes - are they exåressing a positive or negative opinion on the movie they concern? 
+So in general, the total income of a movie can to some extend be described by the total amount of quotes portraying the movie. But couldn't it also be the case that content of quotes has a say in describing Box Office sales? One way to look at content of quotes is by analyzing the sentiment of quotes - are they expressing a positive or negative opinion on the movie they concern? 
 
 <img src="./assets/images/movie.png" width="200" />
 
@@ -60,12 +60,13 @@ So in general, there is a positive relation on paper between the total sentiment
 <h3> Quotes'N'Movies in time </h3>
 <!-- RQ1 and RQ2 on a more complete level - time series -->
 
-As it turns out, this assumption is in fact true - Box Office revenue seem to follow trends in time. For instance, the income on weekdays is peaking on Friday and Saturday - it seems like people favor to watch cinema movies in their weekend.
+As it turns out, this assumption is in fact true - Box Office revenue seem to follow trends in time. Initially, we see that the box office revenue peaks at the premiere date and decrease in kind of the same manner for most movies after the release. Take your time, zoom in on the plot below and investigate it further yourself! 
+{% include all_BoxOffice.html %}
 
+Additionally to the peak on the release date, it seems as most movies have minor periodic peaks that are still convincingly smaller than the release date peak yet are visible. It is observed that this trend can be generalized to all the regarded movies. Visualizing this trend within a weekly period, it seems like people favor to watch cinema movies in their weekend.
 {% include BoxOffice_dow.html %}
 
 Observing this trend, we start asking ourselves whether the relation between movies and quotes observed is also occuring when encountering temporal trends of ticket sales as well as the number of quotes and their positive/negative sentiment. Let's dive into it and start with an example!
-
 
 Imagine you read the daily news papers this morning and read several people expressing their opinion on the new Star Wars VII movie. Later this week you decide to validate and end up watching the movie in the cinema. In relation to 'Star Wars VII - The Force Awankens', you were not alone - the ticket sales were affected by how the media covered Star Wars. 
 
