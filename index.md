@@ -2,7 +2,8 @@
 
 The Cinematic Art is one of the [most important arts in Humanity](https://notesread.com/importance-of-cinema/) and with its wide-ranging scope of artistic story telling and visual creativity, even the greatest film critic has a favourite movie. Already in 2009, the amount of tickets sold for movie theaters [was on scale with the number of living people across the planet](https://thoughteconomics.com/the-role-of-film-in-society/) - the movie industry has grown to be one of the larger industries in terms of revenue. With its wide-ranging appeal and ability to catch the viewer, movies constitute a potential arena for affecting Societal opinions and tendencies. The affective power of movies are thus important to have in mind when considering the Cinematic Art.
 
-Have you ever had the thought that your decision to go to a movie theater and watch a movie possibly depends on recommendations from other people? Movies are constantly being covered in the media in both positive and negative ways and it is not hard to imagine that statements from movie critics or interviews with actors and actresses could potentially influence how you receive the movie. And in which way? Could it be that the old saying <font size="+2"> <b> “bad publicity is good publicity”  </b> </font> is in fact true or is it just an outdated saying? 
+Have you ever had the thought that your decision to go to a movie theater and watch a movie possibly depends on recommendations from other people? Movies are constantly being covered in the media in both positive and negative ways and it is not hard to imagine that statements from movie critics or interviews with actors and actresses could potentially influence how you receive the movie. And in which way? Could it be that the old saying <
+size="+2"> <b> “bad publicity is good publicity”  </b> </font> is in fact true or is it just an outdated saying? 
 
 This data story intends to guide you through an exciting universe of Quotes'N'Movies: an intriguing visual investigation on the publicity, success and legacy of recently published movies. 
 We hope to broaden your mind and get you to realize that there is possibly other factors associated with a movie's success than its quality!
@@ -89,21 +90,22 @@ The tendency of quotes affecting box office sales when considering a temporal sc
 
 
 
+
+
+
 <h2> A movie's legacy - how did we respond? </h2>
 
 The income from ticket sales related to movies are not the only factor for determining the success of a movie - the public opinion on the quality of the movie should also be regarded as an important factor! In other words; there are more to a movie's legacy than it's box office sales.
 
 A good starting point for finding out how movies have been perceived is the [Internet Movie Database (IMDb)](https://www.imdb.com/). On IMDb, a wide range of meta-data is connected to movies - for instance, the cast of movies, production company, etc.. In regards to the legacy of movies it is especially interesting to have a look at the user and critics ratings of movies.
 
+Range between 1 and 10.
+
 ###Comment: I think something summary about IMDb data would be nice!
 <img src="./assets/images/movie.png" width="200" />
 
 
-###Conc: Sentiment scores do seem (with a first glampse at the data) to be comparable to the other metrics. However, it is not
-	observed to be the case that the sentiment scores agree with either critics or users when investigating the selected movie series.
-	We see that it resembles even more the combined user/critic score but is still not significant.
-	Critics and users do not agreee either - thus the sentiment COULD be a valid approach for legacy
-	that is a unique metric and reveals other information than the ratings.
+Could it be that the sentiment that is associated with quotes is related to the rating people generally give a movie on IMDb? Or could it be that it resembles the ratings given by critics as critics are more likely to be quoted than regular IMDb voters? We re-expressed the sentiment scores calculated from quotes about movies to a rating that is comparable with the IMDb user and critic ratings. Let's have a look at it!
 
 <center>
 <table class="center">
@@ -139,6 +141,10 @@ A good starting point for finding out how movies have been perceived is the [Int
    </tr>
 </table>
 </center>
+
+At the first glimpse it seems like sentiment scores are comparable to the metrics from IMDb - at least their minimum, maximum and average values take similar scores. This is however the only thing that the score has in common. It was found that the different ratings <font size="+2"> <b> do not agree </b> </font> on a significant amount of movies. Even the combined rating between IMDb users and critics is not comparable with the sentiment.
+
+It was found that critics and users do also not agreee. Thus, the using sentiment of quotes could be a valid and relevant additional metric for describing the legacy of movies - mabe IMDb should consider using it as a new feature? 
 
 
 <h3> Are there systematic biases in the legacy? </h3>
