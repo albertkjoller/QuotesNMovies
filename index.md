@@ -2,8 +2,7 @@
 
 The Cinematic Art is one of the [most important arts in Humanity](https://notesread.com/importance-of-cinema/) and with its wide-ranging scope of artistic story telling and visual creativity, even the greatest film critic has a favourite movie. Already in 2009, the amount of tickets sold for movie theaters [was on scale with the number of living people across the planet](https://thoughteconomics.com/the-role-of-film-in-society/) - the movie industry has grown to be one of the larger industries in terms of revenue. With its wide-ranging appeal and ability to catch the viewer, movies constitute a potential arena for affecting Societal opinions and tendencies. The affective power of movies are thus important to have in mind when considering the Cinematic Art.
 
-Have you ever had the thought that your decision to go to a movie theater and watch a movie possibly depends on recommendations from other people? Movies are constantly being covered in the media in both positive and negative ways and it is not hard to imagine that statements from movie critics or interviews with actors and actresses could potentially influence how you receive the movie. And in which way? Could it be that the old saying <
-size="+2"> <b> “bad publicity is good publicity”  </b> </font> is in fact true or is it just an outdated saying? 
+Have you ever had the thought that your decision to go to a movie theater and watch a movie possibly depends on recommendations from other people? Movies are constantly being covered in the media in both positive and negative ways and it is not hard to imagine that statements from movie critics or interviews with actors and actresses could potentially influence how you receive the movie. And in which way? Could it be that the old saying <size="+2"> <b> “bad publicity is good publicity” </b> </font> is in fact true or is it just an outdated saying? 
 
 This data story intends to guide you through an exciting universe of Quotes'N'Movies: an intriguing visual investigation on the publicity, success and legacy of recently published movies. 
 We hope to broaden your mind and get you to realize that there is possibly other factors associated with a movie's success than its quality!
@@ -150,6 +149,9 @@ It was found that critics and users do also not agreee. Thus, the using sentimen
 <h3> Are there systematic biases in the legacy? </h3>
 
 ###Sugestion: Cool bias plots on the IMDb data in general and related to sentiment and quotes etc.
+###Julian conclusions: Main findings for me: Quotes are mainly from male persons, diverse ppl and women underrrepresented. Men have significant lower sentiment. 
+Same for average rating per movie: Lower on average for men than women, and in numbers on average per movie more men than female votes. For age groups: Most votes from 18-30 and 30-45, especially < 18 underrepresented
+Huge majority of quotes from US citizens and almost all speakers are citizens from native English countries (surprise surprise)
 
 
 <h2> Conclusion </h2>
