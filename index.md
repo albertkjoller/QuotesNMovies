@@ -60,7 +60,7 @@ So in general, there is a positive relation on paper between the total sentiment
 <h3> Quotes'N'Movies in time </h3>
 <!-- RQ1 and RQ2 on a more complete level - time series -->
 
-As it turns out, this assumption is in fact true - Box Office revenue seem to follow trends in time. For instance, the average income on weekdays is peaking on Friday and Saturday - it seems like people favor to watch cinema movies in their weekend.
+As it turns out, this assumption is in fact true - Box Office revenue seem to follow trends in time. For instance, the income on weekdays is peaking on Friday and Saturday - it seems like people favor to watch cinema movies in their weekend.
 
 ###Plot the amount of box office per weekday barplot as motivation for looking into time series.
 <img src="./assets/images/movie.png" width="200" />
