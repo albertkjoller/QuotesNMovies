@@ -20,7 +20,7 @@ In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> movie
 {% include yearly_movies.html %}
 
 <!-- Box Office intro -->
-The total revenue from Box Office sales within this period was <font size="+3"> <b> US$ 56.43 Billion </b> dollars </font> at the U.S. cinemas
+The total revenue from Box Office sales within this period was <font size="+3"> <b> US$ 56.43 Billion </b> dollars </font> at the U.S. cinemas.
 {% include yearly_BoxOffice.html %}
 <!-- Maybe use this instead: The total income from ticket sales within each years were heavily impacted by a small set of the movies broadcasted within that year. -->
 A handfull of movies within each year were the major actors in terms of income from ticket sales. The top 10 movies within each year occupy a major part of the total Box Office sales. It is easily seen that the number of movies and the total box office sales within a year seem to follow a similar trend and are especially low. The deviation for 2020 is due to the societal impact of COVID-19.
@@ -31,8 +31,14 @@ The top-ranking movies in terms of income in each year heavily battled the top-r
 {% include totalBoxOffice.html %}
 
 <!-- Quotes intro -->
-In this same period a total of <font size="+4"> <b> 150.933 </b> quotes </font> related to Top 10 movies within each year were printed on online media webpages.
+In this same period a total of <font size="+4"> <b> 150.933 </b> quotes </font> related to top 10 movies within each year were printed on online media webpages.
 {% include yearly_Quotes.html %}
+
+
+The majority of speakers associated with quotes related to top 10 movies within a year were mainly <font size="+4"> <b> US citizens </b> </font> and, furthermore, almost all speakers are citizens from native English countries. This fits perfectly with the setting of U.S. Domestic Box Office sales that was previously described.
+<img src="./assets/images/movie.png" width="200" />
+###Comment: Pie chart of distribution of nationality of speakers.
+
 
 
 
@@ -149,12 +155,28 @@ It was found that critics and users do also not agreee. Thus, the using sentimen
 
 - Quotes are mainly from male persons, 
    - diverse ppl and women underrrepresented. 
-- Men have significant lower sentiment (wiki data) 
-- 
 
-###Julian conclusions:
-Same for average rating per movie: Lower on average for men than women, and in numbers on average per movie more men than female votes. For age groups: Most votes from 18-30 and 30-45, especially < 18 underrepresented
-Huge majority of quotes from US citizens and almost all speakers are citizens from native English countries (surprise surprise)
+<img src="./assets/images/movie.png" width="200" />
+###Comment: Pie chart - of distribution of gender.
+
+
+- Men have significant lower sentiment (wiki data) 
+<img src="./assets/images/movie.png" width="200" />
+###Comment: bar plot again?
+
+
+- Men have significant lower average rating per movie: 
+   - Lower on average for men than women,
+   - in numbers on average per movie more men than female votes.
+<img src="./assets/images/movie.png" width="200" />
+###Comment: bar plot also?
+
+
+- For age groups: Most votes from 18-30 and 30-45, especially < 18 underrepresented
+<img src="./assets/images/movie.png" width="200" />
+###Comment: What?! A good damn good slice of cherry pie - give me a piece of that beautiful pie chart!
+
+ 
 
 
 <h2> Conclusion </h2>
@@ -166,6 +188,6 @@ Huge majority of quotes from US citizens and almost all speakers are citizens fr
    
 <h2> References </h2>
    
-This project was made for the course [CS-401 Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2021/cs401/) at EPFL (fall 2021). We would like to acredit the authors of [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf), the [IMDb data set](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv) and [Box Office Mojo](https://www.boxofficemojo.com/daily/).
+This project was made for the course [CS-401 Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2021/cs401/) at EPFL (fall 2021). We would like to acredit the authors of [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf), the [IMDb data set](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv), [Box Office Mojo](https://www.boxofficemojo.com/daily/) and [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page).
 
 Created by Albert Kjøller Jacobsen, Benedek Harsanyi, Felix Borum Burmester & Julian Schnitzler (Band name: F-JAB)
