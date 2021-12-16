@@ -161,8 +161,10 @@ In addition quotes about movies given by men have a convincingly more negative p
 But is this tendency also seen throughout the IMDb ratings. As you know, there was no relation between IMDb scores and the sentiment scores obtained from quotes in the media. As you see, all average ratings of the considered movies given by female reviewers are consequently higher than the ratings given by men:
 {% include gender_rating.html %}
 
+
 - For age groups: Most votes from 18-30 and 30-45, especially < 18 underrepresented
-<img src="./assets/images/movie.png" width="200" />
+{% include rq4_agegroups.html %}
+
 
  
 
@@ -170,6 +172,8 @@ But is this tendency also seen throughout the IMDb ratings. As you know, there w
 <h2> Conclusion </h2>
    
 ###No idea yet :-)
+
+Is bad publicity in fact good publicity?
    
 
    
