@@ -165,8 +165,7 @@ In addition quotes about movies given by men have a convincingly more negative p
 - Men have significant lower average rating per movie: 
    - Lower on average for men than women,
    - in numbers on average per movie more men than female votes.
-<img src="./assets/images/movie.png" width="200" />
-
+{% include gender_rating.html %}
 
 - For age groups: Most votes from 18-30 and 30-45, especially < 18 underrepresented
 <img src="./assets/images/movie.png" width="200" />
