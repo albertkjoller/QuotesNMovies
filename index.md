@@ -119,7 +119,7 @@ Then continue to the sentiment score --> should we include a temporal aspect her
       <td> 6.8 </td>
    </tr>
    <tr>
-      <td> <i> IMDb mixed <i> </td>
+      <td> <i> IMDb mixed </i> </td>
       <td> 4.5 </td>
       <td> 8.8 </td>
       <td> 7.0 </td>
@@ -142,3 +142,4 @@ Then continue to the sentiment score --> should we include a temporal aspect her
    
 <h2> References </h2>
    
+###IMDb Dataset, Quotebank, BoxOffice, etc. -- Bob West - ADA (CREDZ!)
