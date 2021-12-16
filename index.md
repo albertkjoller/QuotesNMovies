@@ -124,7 +124,6 @@ Then continue to the sentiment score --> should we include a temporal aspect her
       <td> 8.8 </td>
       <td> 7.0 </td>
    </tr>
-   <caption> Different ratings of movies </caption>
 </table>
 </center>
 
