@@ -140,15 +140,19 @@ Could it be that the sentiment that is associated with quotes is related to the 
 </table>
 </center>
 
-At the first glimpse it seems like sentiment scores are comparable to the metrics from IMDb - at least their minimum, maximum and average values take similar scores. This is however the only thing that the score has in common. It was found that the different ratings <font size="+2"> <b> do not agree </b> </font> on a significant amount of movies. Even the combined rating between IMDb users and critics is not comparable with the sentiment.
+At the first glimpse it seems like sentiment scores are comparable to the metrics from IMDb - at least their minimum, maximum and average values take similar scores. This is however the only thing that the score has in common. It was found that the different ratings <font size="+2"> <b> do not agree </b> </font> on a significant amount of movies. Even the combined rating between IMDb users and critics is not comparable with the sentiment. The following figure should give an intuition of this:
 
 It was found that critics and users do also not agreee. Thus, the using sentiment of quotes could be a valid and relevant additional metric for describing the legacy of movies - mabe IMDb should consider using it as a new feature? 
 
 
 <h3> Are there systematic biases in the legacy? </h3>
 
-###Sugestion: Cool bias plots on the IMDb data in general and related to sentiment and quotes etc.
-###Julian conclusions: Main findings for me: Quotes are mainly from male persons, diverse ppl and women underrrepresented. Men have significant lower sentiment. 
+- Quotes are mainly from male persons, 
+   - diverse ppl and women underrrepresented. 
+- Men have significant lower sentiment (wiki data) 
+- 
+
+###Julian conclusions:
 Same for average rating per movie: Lower on average for men than women, and in numbers on average per movie more men than female votes. For age groups: Most votes from 18-30 and 30-45, especially < 18 underrepresented
 Huge majority of quotes from US citizens and almost all speakers are citizens from native English countries (surprise surprise)
 
