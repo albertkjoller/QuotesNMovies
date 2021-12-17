@@ -179,7 +179,7 @@ For some movies it is. But for more movies, it isn't. To generalize across all m
 
 We think that checking the IMDb score shouldn't be the basis for your decision. Neither should a good interview with an actor or actress. You should watch the movies you want, and nobody should tell you what you want.
 <center>
-<img src="./assets/images/de_niro.jpeg" width="450" />
+<img src="./assets/images/de_niro.jpeg" width="650" />
 </center>
 
 <h2> References </h2>
