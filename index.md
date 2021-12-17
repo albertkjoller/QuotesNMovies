@@ -155,7 +155,7 @@ It was found that critics and users do also not agreee. Thus, the using sentimen
 As it turns out, the majority of quotes about the regarded movies comes from speakers identifying themselves as male persons. In fact there are <font size="+2"> <b> 82.3% </b> male speakers </font>.
 {% include gender_pieChart.html %}
 
-In addition quotes about movies given by men have a convincingly more negative phrasing than the ones given by females or other non-binary genders. Thus, <font size="+2"> quotes given by <b> men </b> </font> seem to be <font size="+2"> <b> more critisizing </b> </font> towards movies.
+In addition quotes about movies given by men have a convincingly more negative phrasing than the ones given by females or other non-binary genders. Thus, quotes given by <font size="+2"> <b> male </b> speakers </font> seem to be <font size="+2"> <b> more critisizing </b> </font> towards movies.
 {% include gender_Sentiment.html %}
 
 But is this tendency also seen throughout the IMDb ratings? As you know, there was no relation between IMDb scores and the sentiment scores obtained from quotes in the media. As you see, all average ratings of the considered movies given by <font size="+2"> <b> female </b> reviewers </font> are consequently yielding <font size="+2"> <b> higher ratings </b> </font> than the ratings given by men:
