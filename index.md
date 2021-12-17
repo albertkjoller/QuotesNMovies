@@ -165,7 +165,7 @@ But is this tendency also seen throughout the IMDb ratings. As you know, there w
 In addition it is observed that most of the votes on the IMDb ratings comes people within the age groups from 18-30 years and 30-45 years. Especially people under the age of 18 years are underrepresented. When considering the scope that most movies have it seems rather unlikely that this trend should reflect the real-world scenario and it therefore seems obvious that the IMDb ratings are biased from mid-aging age groups. 
 {% include rq4_agegroups.html %}
 
- 
+ ###Short comment to bias in the data - short (sub)conclusion.
 
 
 <h2> Conclusion </h2>
