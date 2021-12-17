@@ -178,7 +178,6 @@ Is bad publicity in fact good publicity?
 For some movies it is. But for more movies, it isn't. To generalize across all movies is impossible as all movies are different and their marketing is too. So I have read this entire story for no reason? No, we wouldn't say that. Now you know that some movies' success is actually caused by their publicity (both good and bad). You also know movie ratings are almost always heavily biased towards different groups of society. So what should you do before deciding to watch a movie?
 
 We think that checking the IMDb score shouldn't be the basis for your decision. Neither should a good interview with an actor or actress. You should watch the movies you want, and nobody should tell you what you want.
-
 <center>
 <img src="./assets/images/de_niro.jpeg" width="450" />
 </center>
