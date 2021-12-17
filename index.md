@@ -176,7 +176,10 @@ For some movies it is. But for more movies, it isn't. To generalize across all m
 
 We think that checking the IMDb score shouldn't be the basis for your decision. Neither should a good interview with an actor or actress. You should watch the movies you want, and nobody should tell you what you want.
 
-   
+<center>
+<img src="./assets/images/hollywood_sign.jpeg" width="450" />
+</center>
+
 <h2> References </h2>
    
 This project was made for the course [CS-401 Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2021/cs401/) at EPFL (fall 2021). We would like to acredit the authors of [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf), the [IMDb data set](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv), [Box Office Mojo](https://www.boxofficemojo.com/daily/) and [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page).
