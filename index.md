@@ -1,6 +1,6 @@
 <h1> Quotes'N'Movies </h1>
 
-The Cinematic Art is one of the [most important arts in Humanity](https://notesread.com/importance-of-cinema/) and with its wide-ranging scope of artistic story telling and visual creativity, even the greatest film critic has a favourite movie. Already in 2009, the amount of tickets sold for movie theaters [was on scale with the number of living people across the planet](https://thoughteconomics.com/the-role-of-film-in-society/) - the movie industry has grown to be one of the larger industries in terms of revenue. With its wide-ranging appeal and ability to catch the viewer, movies constitute a potential arena for affecting Societal opinions and tendencies. The affective power of movies are thus important to have in mind when considering the Cinematic Art.
+The Cinematic Art is one of the [most important arts in Humanity](https://notesread.com/importance-of-cinema/) and with its wide-ranging scope of artistic storytelling and visual creativity, even the greatest film critic has a favorite movie. Already in 2009, the number of tickets sold for movie theaters [was on scale with the number of living people across the planet](https://thoughteconomics.com/the-role-of-film-in-society/) - the movie industry has grown to be one of the larger industries in terms of revenue. With its wide-ranging appeal and ability to catch the viewer, movies constitute a potential arena for affecting Societal opinions and tendencies. Therefore, the affecting power of movies is important to have in mind when considering Cinematic Art.
 
 <center>
 <img src="./assets/images/george_lucas_walk_of_fame.jpeg" width="450" />
@@ -9,11 +9,10 @@ The Cinematic Art is one of the [most important arts in Humanity](https://notesr
 
 Have you ever had the thought that your decision to go to a movie theater and watch a movie possibly depends on recommendations from other people? Movies are constantly being covered in the media in both positive and negative ways and it is not hard to imagine that statements from movie critics or interviews with actors and actresses could potentially influence how you receive the movie. And in which way? Could it be that the old saying <font size="+2"> <b> “bad publicity is good publicity” </b> </font> is in fact true or is it just an outdated saying? 
 
-This data story intends to guide you through an exciting universe of Quotes'N'Movies: an intriguing visual investigation on the publicity, success and legacy of recently published movies. 
-We hope to broaden your mind and get you to realize that there is possibly other factors associated with a movie's success than its quality!
+This data story intends to guide you through an exciting universe of Quotes'N'Movies: an intriguing visual investigation on the publicity, success, and legacy of recently published movies. 
+We hope to broaden your mind and get you to realize that there are possibly other factors associated with a movie's success than its quality!
 
 If you're ready? Let's start!
-
 
 
 
@@ -28,11 +27,11 @@ In the periode between 2015-2020 a total of <font size="+4"> <b> 2486 </b> movie
 The total revenue from Box Office sales within this period was <font size="+3"> <b> US$ 56.43 Billion </b> dollars </font> at the U.S. cinemas.
 {% include yearly_BoxOffice.html %}
 <!-- Maybe use this instead: The total income from ticket sales within each years were heavily impacted by a small set of the movies broadcasted within that year. -->
-A handfull of movies within each year were the major actors in terms of income from ticket sales. The top 10 movies within each year occupy a major part of the total Box Office sales. It is easily seen that the number of movies and the total box office sales within a year seem to follow a similar trend and are especially low. The deviation for 2020 is due to the societal impact of COVID-19.
+A handful of movies within each year were the major actors in terms of income from ticket sales. The top 10 movies within each year occupy a major part of the total Box Office sales. It is easily seen that the number of movies and the total box office sales within a year seem to follow a similar trend and are especially low. The deviation for 2020 is due to the societal impact of COVID-19.
 {% include yearly_BoxOfficeByMovie.html %}
 
 <!-- Box Office raceplot -->
-The top-ranking movies in terms of income in each year heavily battled the top-ranking movies from other years in the combat for becoming the most successfull movie in the period in terms of revenue.
+The top-ranking movies in terms of income in each year heavily battled the top-ranking movies from other years in the combat for becoming the most successful movie in the period in terms of revenue.
 {% include totalBoxOffice.html %}
 
 <!-- Quotes intro -->
@@ -51,17 +50,17 @@ The majority of speakers associated with quotes related to top 10 movies within 
 <h2> How did coverage of movies relate to their success when played on-screen? </h2>
 <!-- RQ1 and RQ2 on a "high-level" - movie level -->
 
-On the yearly level of total number of quotes and total income from movies it seems rather unlikely that quotes should affect the Box Office sales as the number of quotes in 2015-2016 compared to the later years do not look similar to the trend in total yearly Box Office revenue.
+On the yearly level of the total number of quotes and total income from movies, it seems rather unlikely that quotes should affect the Box Office sales as the number of quotes in 2015-2016 compared to the later years do not look similar to the trend in total yearly Box Office revenue.
 
-On the other hand, when regarding movies in general - and thus not on a yearly basis - there is (on paper) a positive relation between the amount of quotes as well as the Box Office related for movies. Even though the trend in theory is valid, one can question whether the total number of quotes is in practice good for modeling the box office revenue as you can see that it's heavily affected by outliers:
+On the other hand, when regarding movies in general - and thus not yearly - there is (on paper) a positive relationship between the number of quotes as well as the Box Office related for movies. Even though the trend, in theory, is valid, one can question whether the total number of quotes is in practice good for modeling the box office revenue as you can see that it's heavily affected by outliers:
 
 {% include tot_box_quotes.html %}
 
-So in general, the total income of a movie can to some extend be described by the total amount of quotes portraying the movie. But couldn't it also be the case that content of quotes has a say in describing Box Office sales? One way to look at content of quotes is by analyzing the sentiment of quotes - are they expressing a positive or negative opinion on the movie they concern? 
+So in general, the total income of a movie can to some extend be described by the total amount of quotes portraying the movie. But couldn't it also be the case that the content of quotes has a say in describing Box Office sales? One way to look at the content of quotes is by analyzing the sentiment of quotes - are they expressing a positive or negative opinion on the movie they concern?
 
 {% include tot_box_sentiment.html %}
 
-So in general, there is a positive relation on paper between the total sentiment content of quotes and the total income from sold ticket for a movie. Though, we are missing the obvious here - ticket sales and quotes are not constant numbers, they are able to change over time and it is fairly reasonable to assume that the temporal aspect related to movies is important...
+So in general, there is a positive relationship on paper between the total sentiment content of quotes and the total income from ticket sales for a movie. Though we are missing the obvious here - ticket sales and quotes are not constant numbers, they are able to change over time and it is fairly reasonable to assume that the temporal aspect related to movies is important... 
 
 
 
@@ -69,29 +68,29 @@ So in general, there is a positive relation on paper between the total sentiment
 <h3> Quotes'N'Movies in time </h3>
 <!-- RQ1 and RQ2 on a more complete level - time series -->
 
-As it turns out, this assumption is in fact true - Box Office revenue seem to follow trends in time. Initially, we see that the box office revenue peaks at the premiere date and decrease in kind of the same manner for most movies after the release. Take your time, zoom in on the plot below and investigate it further yourself! 
+As it turns out, this assumption is in fact true - Box Office revenue seems to follow trends in time. Initially, we see that the box office revenue peaks at the premiere date and decreases in kind of the same manner for most movies after the release. Take your time, zoom in on the plot below and investigate it further yourself! 
 {% include all_BoxOffice.html %}
 
-Additionally to the peak on the release date, it seems as most movies have minor periodic peaks that are still convincingly smaller than the release date peak yet are visible. It is observed that this trend can be generalized to all the regarded movies. Visualizing this trend within a weekly period, it seems like people favor to watch cinema movies in their weekend.
+Additionally to the peak on the release date, it seems as though most movies have minor periodic peaks that are still convincingly smaller than the release date peak. It is observable that this trend can be generalized to all the regarded movies. Visualizing this trend within a weekly period, it seems like people favor watching cinema movies on their weekends.
 {% include BoxOffice_dow.html %}
 
-Observing this trend, we start asking ourselves whether the relation between movies and quotes observed is also occuring when encountering temporal trends of ticket sales as well as the number of quotes and their positive/negative sentiment. Let's dive into it and start with an example!
+Observing this trend, we start asking ourselves whether the relation between movies and quotes is also occurring when encountering temporal trends of both ticket sales and the number of quotes and their positive/negative sentiment. Let's dive into it and start with an example!
 
-Imagine you read the daily news papers this morning and read several people expressing their opinion on the new Star Wars VII movie. Later this week you decide to validate and end up watching the movie in the cinema. In relation to 'Star Wars VII - The Force Awankens', you were not alone - the ticket sales were affected by how the media covered Star Wars. 
+Imagine you read the daily newspaper this morning and read several people expressing their opinion on the new Star Wars movie. Later this week you decide to validate the opinions in the newspaper and you go watch the movie for yourself. Concerning 'Star Wars VII - The Force Awakens', you were not alone - the ticket sales were affected by how the media covered Star Wars. 
 
 {% include star_wars_quotes_box.html %}
 
-Is this just one isolated example or is the trend of quotes causing box office revenue in the temporal setting generalizable to movies in general?
+Is this just one isolated example or is the trend - of quotes causing box office revenue in the temporal setting - generalizable to other movies?
 
-Digging into the temporal relations for quotes and sentiments to the income from ticket sales reveals that the trend observed for Star Wars VII does not generalize to movies from the combined list of top 10 movies from each year. The daily number of quotes about a movie do have an impact on the box office sales for the movie for most of the considered movies - but not for all of them. If you examine the bars below closely enough, you will be able to see that the Star Wars VII example is in fact true:
+Digging into the temporal relations for quotes and sentiments to the income from ticket sales reveals that the trend observed for Star Wars VII does not generalize to movies from the combined list of top 10 movies from each year. The daily number of quotes about a movie does have an impact on the box office sales for the movie for most of the considered movies - but not for all of them. If you examine the bars below closely enough, you will be able to see that the Star Wars VII example is in fact true:
 
 {% include dailyNumQuotes_boxOffice.html %}
 
-This tendency is also seen when considering the daily sentiment of quotes related to box office sales. Here the daily incomes of the majority part of the considered movies are still caused by the total daily sentiment related to the movie. Generalizing this trend however becomes harder than for the number of quotes as the relation is not valid for a larger fraction of the considered movies:
+This tendency is also seen when considering the daily sentiment of quotes related to box office sales. Here the daily incomes of the majority of the considered movies are still caused by the total daily sentiment related to the movie. Generalizing this trend, however, becomes harder than for the number of quotes as the relation is not valid for a larger fraction of the considered movies:
 
 {% include dailySent_boxOffice.html %}
 
-The tendency of quotes affecting box office sales when considering a temporal scale seem to suggest the same as when considering the totality of quotes and box office income - namely that box office sales are influenced by quotes and their sentiment. However, on the temporal level it is revealed that the trend is not general yet appears to be the case for the majority part of movies.
+The tendency of quotes affecting box office sales when considering a temporal scale seems to suggest the same as when considering the total number of quotes and box office income - namely that box office sales are influenced by quotes and their sentiment. However, on the temporal level, it is revealed that the trend is not general even though it appears to be the case for the majority part of movies.
 
 <!-- It is hard to generalize the temporal trend - meaning the number of days in between quote and ticket sale - on which the media coverage affected Star Wars VII. In spite of this -->
 
@@ -102,11 +101,11 @@ The tendency of quotes affecting box office sales when considering a temporal sc
 
 <h2> A movie's legacy - how did we respond? </h2>
 
-The income from ticket sales related to movies are not the only factor for determining the success of a movie - the public opinion on the quality of the movie should also be regarded as an important factor! In other words; there are more to a movie's legacy than it's box office sales.
+The income from ticket sales related to movies is not the only factor for determining the success of a movie - the public opinion on the quality of the movie should also be regarded as an important factor! In other words; there is more to a movie's legacy than its box office sales.
 
-A good starting point for finding out how movies have been perceived is the [Internet Movie Database (IMDb)](https://www.imdb.com/). On IMDb, a wide range of meta-data is connected to movies - for instance, the cast of movies, production company, etc.. In regards to the legacy of movies it is especially interesting to have a look at the user and critics ratings of movies. IMDb scores are ranked on a scale between 1-10 and we can with some calculations express the critics score on this scale as well.
+A good starting point for finding out how movies have been perceived is the [Internet Movie Database (IMDb)](https://www.imdb.com/). On IMDb, a wide range of meta-data is connected to movies - for instance, the cast of movies, production company, etc. In regards to the legacy of movies, it is especially interesting to have a look at the user and critic ratings of movies. IMDb scores lie on a scale between 1-10, and we can use some calculations to express the critics' scores on this scale as well.
 
-Could it be that the sentiment that is associated with quotes is related to the rating people generally give a movie on IMDb? Or could it be that it resembles the ratings given by critics as critics are more likely to be quoted than regular IMDb voters? We re-expressed the sentiment scores calculated from quotes about movies to a rating that is comparable with the IMDb user and critic ratings. Let's have a look at it!
+Could it be that the sentiment - associated with quotes - is related to the rating people generally give a movie on IMDb? Or could it be that it better resembles the ratings by critics as critics are more likely to be quoted than regular IMDb voters? We expressed the sentiment scores calculated from quotes about movies to a rating comparable with the IMDb user and critic ratings. Let's have a look at it!
 
 <center>
 <table class="center">
@@ -143,10 +142,10 @@ Could it be that the sentiment that is associated with quotes is related to the 
 </table>
 </center>
 
-At the first glimpse it seems like sentiment scores are comparable to the metrics from IMDb - at least their minimum, maximum and average values take similar scores. This is however the only thing that the score has in common. It was found that the different ratings <font size="+2"> <b> do not agree </b> </font> on a significant amount of movies. Even the combined rating between IMDb users and critics is not comparable with the sentiment. The following figure should give an intuition of this:
+At the first glimpse, it seems that sentiment scores are comparable to the metrics from IMDb - at least their minimum, maximum and average values take similar scores. This is, however, the only thing that the score has in common. It was found that the different ratings <font size="+2"> <b> do not agree </b> </font> on a significant amount of movies. Even the combined rating between IMDb users and critics is not comparable with the sentiment. The following figure should give an intuition of this:
 {% include scores.html %}
 
-It was found that critics and users do also not agreee. Thus, the using sentiment of quotes could be a valid and relevant additional metric for describing the legacy of movies - mabe IMDb should consider using it as a new feature? 
+It is visible that critics and users also disagree. Thus, using sentiment of quotes could be a valid and relevant additional metric for describing the legacy of movies - maybe IMDb should consider using it as a new feature? 
 
 
 
@@ -162,7 +161,7 @@ But is this tendency also seen throughout the IMDb ratings? As you know, there w
 {% include gender_rating.html %}
 
 
-In addition it is observed that most of the votes on the IMDb ratings comes people within the age groups from 18-30 years and 30-45 years. Especially people under the age of 18 years are underrepresented. When considering the target group that most movies have it seems rather unlikely that this trend should reflect the real-world scenario and it therefore seems obvious that the IMDb ratings are biased from mid-aging age groups. 
+In addition, it is observed that most of the votes on the IMDb ratings come from people within the age groups from 18-30 years and 30-45 years. Especially people under the age of 18 years are underrepresented. When considering the target group that most movies have it seems rather unlikely that this trend should reflect the real-world scenario. Therefore, it seems obvious that the IMDb ratings are biased from mid-aging age groups. 
 {% include rq4_agegroups.html %}
 
  ###Short comment to bias in the data - short (sub)conclusion.
