@@ -164,12 +164,15 @@ But is this tendency also seen throughout the IMDb ratings? As you know, there w
 In addition, it is observed that most of the votes on the IMDb ratings come from people within the age groups from 18-30 years and 30-45 years. Especially people under the age of 18 years are underrepresented. When considering the target group that most movies have it seems rather unlikely that this trend should reflect the real-world scenario. Therefore, it seems obvious that the IMDb ratings are biased from mid-aging age groups. 
 {% include rq4_agegroups.html %}
 
- ###Short comment to bias in the data - short (sub)conclusion.
+
+What does this mean? Well, given that the vast majority of quotes are taken from men, there might be a bias in how genres of movies are portrayed. For example, a superhero movie (like Batman V Superman) might have a higher sentiment score than that of children's movies (like Dolittle or Frozen II). Furthermore, the bias towards 18 to 45-year-olds might also give biased ratings on age-related genres such as children's movies.
 
 
-<h2> Conclusion </h2>
+<h2> Conclusion, why did you read this datastory? </h2>
    
 ###No idea yet :-)
+
+
 
 Is bad publicity in fact good publicity?
    
