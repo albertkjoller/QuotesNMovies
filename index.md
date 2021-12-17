@@ -3,9 +3,8 @@
 The Cinematic Art is one of the [most important arts in Humanity](https://notesread.com/importance-of-cinema/) and with its wide-ranging scope of artistic storytelling and visual creativity, even the greatest film critic has a favorite movie. Already in 2009, the number of tickets sold for movie theaters [was on scale with the number of living people across the planet](https://thoughteconomics.com/the-role-of-film-in-society/) - the movie industry has grown to be one of the larger industries in terms of revenue. With its wide-ranging appeal and ability to catch the viewer, movies constitute a potential arena for affecting Societal opinions and tendencies. Therefore, the affecting power of movies is important to have in mind when considering Cinematic Art.
 
 <center>
-<img src="./assets/images/george_lucas_walk_of_fame.jpeg" width="450" />
+<img src="./assets/images/hollywood_sign.jpeg" width="450" />
 </center>
-
 
 Have you ever had the thought that your decision to go to a movie theater and watch a movie possibly depends on recommendations from other people? Movies are constantly being covered in the media in both positive and negative ways and it is not hard to imagine that statements from movie critics or interviews with actors and actresses could potentially influence how you receive the movie. And in which way? Could it be that the old saying <font size="+2"> <b> “bad publicity is good publicity” </b> </font> is in fact true or is it just an outdated saying? 
 
@@ -177,11 +176,11 @@ For some movies it is. But for more movies, it isn't. To generalize across all m
 We think that checking the IMDb score shouldn't be the basis for your decision. Neither should a good interview with an actor or actress. You should watch the movies you want, and nobody should tell you what you want.
 
 <center>
-<img src="./assets/images/hollywood_sign.jpeg" width="450" />
+<img src="./assets/images/george_lucas_walk_of_fame.jpeg" width="450" />
 </center>
 
 <h2> References </h2>
    
-This project was made for the course [CS-401 Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2021/cs401/) at EPFL (fall 2021). We would like to acredit the authors of [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf), the [IMDb data set](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv), [Box Office Mojo](https://www.boxofficemojo.com/daily/) and [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page).
+This data story was made as part of the course [CS-401 Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2021/cs401/) at EPFL (fall 2021). We would like to acredit the authors of [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf), the [IMDb data set](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv), [Box Office Mojo](https://www.boxofficemojo.com/daily/) and [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page).
 
 Created by Albert Kjøller Jacobsen, Benedek Harsanyi, Felix Borum Burmester & Julian Schnitzler (Band name: F-JAB)
