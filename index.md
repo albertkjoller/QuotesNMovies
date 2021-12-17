@@ -102,6 +102,10 @@ The tendency of quotes affecting box office sales when considering a temporal sc
 
 The income from ticket sales related to movies is not the only factor for determining the success of a movie - the public opinion on the quality of the movie should also be regarded as an important factor! In other words; there is more to a movie's legacy than its box office sales.
 
+<center>
+<img src="./assets/images/george_lucas_walk_of_fame.jpeg" width="450" />
+</center>
+
 A good starting point for finding out how movies have been perceived is the [Internet Movie Database (IMDb)](https://www.imdb.com/). On IMDb, a wide range of meta-data is connected to movies - for instance, the cast of movies, production company, etc. In regards to the legacy of movies, it is especially interesting to have a look at the user and critic ratings of movies. IMDb scores lie on a scale between 1-10, and we can use some calculations to express the critics' scores on this scale as well.
 
 Could it be that the sentiment - associated with quotes - is related to the rating people generally give a movie on IMDb? Or could it be that it better resembles the ratings by critics as critics are more likely to be quoted than regular IMDb voters? We expressed the sentiment scores calculated from quotes about movies to a rating comparable with the IMDb user and critic ratings. Let's have a look at it!
@@ -176,7 +180,7 @@ For some movies it is. But for more movies, it isn't. To generalize across all m
 We think that checking the IMDb score shouldn't be the basis for your decision. Neither should a good interview with an actor or actress. You should watch the movies you want, and nobody should tell you what you want.
 
 <center>
-<img src="./assets/images/george_lucas_walk_of_fame.jpeg" width="450" />
+<img src="./assets/images/de_niro.jpeg" width="450" />
 </center>
 
 <h2> References </h2>
