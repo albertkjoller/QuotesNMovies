@@ -152,17 +152,17 @@ It was found that critics and users do also not agreee. Thus, the using sentimen
 
 <h3> Are there systematic biases in the legacy? </h3>
 
-As it turns out, the majority of quotes about the regarded movies comes from speakers identifying themselves as male persons.
+As it turns out, the majority of quotes about the regarded movies comes from speakers identifying themselves as male persons. In fact there are <font size="+2"> <b> 82.3% </b> male speakers </font>.
 {% include gender_pieChart.html %}
 
-In addition quotes about movies given by men have a convincingly more negative phrasing than the ones given by females or other non-binary genders. Thus, quotes from men seem to be more critizising towards movies.
+In addition quotes about movies given by men have a convincingly more negative phrasing than the ones given by females or other non-binary genders. Thus, <font size="+2"> quotes given by <b> men </b> </font> seem to be <font size="+2"> <b> more critisizing </b> </font> towards movies.
 {% include gender_Sentiment.html %}
 
-But is this tendency also seen throughout the IMDb ratings. As you know, there was no relation between IMDb scores and the sentiment scores obtained from quotes in the media. As you see, all average ratings of the considered movies given by female reviewers are consequently higher than the ratings given by men:
+But is this tendency also seen throughout the IMDb ratings? As you know, there was no relation between IMDb scores and the sentiment scores obtained from quotes in the media. As you see, all average ratings of the considered movies given by <font size="+2"> <b> female </b> reviewers </font> are consequently yielding <font size="+2"> <b> higher ratings </b> </font> than the ratings given by men:
 {% include gender_rating.html %}
 
 
-In addition it is observed that most of the votes on the IMDb ratings comes people within the age groups from 18-30 years and 30-45 years. Especially people under the age of 18 years are underrepresented. When considering the scope that most movies have it seems rather unlikely that this trend should reflect the real-world scenario and it therefore seems obvious that the IMDb ratings are biased from mid-aging age groups. 
+In addition it is observed that most of the votes on the IMDb ratings comes people within the age groups from 18-30 years and 30-45 years. Especially people under the age of 18 years are underrepresented. When considering the target group that most movies have it seems rather unlikely that this trend should reflect the real-world scenario and it therefore seems obvious that the IMDb ratings are biased from mid-aging age groups. 
 {% include rq4_agegroups.html %}
 
  ###Short comment to bias in the data - short (sub)conclusion.
